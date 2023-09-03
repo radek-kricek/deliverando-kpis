@@ -1,0 +1,1649 @@
+name,zip,kpi,Month 1,Month 2,delivery service
+Rustikale Schanze,8020,# Commissionable Orders,699.0,822.0,deliverando
+Rustikale Schanze,8020,Avg Basket Size €,22.5,23.33,deliverando
+Rustikale Schanze,8020,# Negative Comments,3.0,4.0,deliverando
+Rustikale Schanze,8020,# Positive Comments,1.0,1.0,deliverando
+Rustikale Schanze,8020,% Kill Rate,52.0,46.0,deliverando
+Rustikale Schanze,8020,Avg Time to Accept (s),17.0,15.0,deliverando
+Alpen Stadl,8020,# Commissionable Orders,1178.0,1353.0,deliverando
+Alpen Stadl,8020,Avg Basket Size €,19.12,19.95,deliverando
+Alpen Stadl,8020,# Negative Comments,0.0,3.0,deliverando
+Alpen Stadl,8020,# Positive Comments,1.0,1.0,deliverando
+Alpen Stadl,8020,% Kill Rate,0.06,57.0,deliverando
+Alpen Stadl,8020,Avg Time to Accept (s),9.0,9.0,deliverando
+Herzliche Ort,8010,# Commissionable Orders,230.0,375.0,deliverando
+Herzliche Ort,8010,Avg Basket Size €,23.82,24.73,deliverando
+Herzliche Ort,8010,# Negative Comments,1.0,0.0,deliverando
+Herzliche Ort,8010,# Positive Comments,1.0,1.0,deliverando
+Herzliche Ort,8010,% Kill Rate,54.0,112.0,deliverando
+Herzliche Ort,8010,Avg Time to Accept (s),19.0,20.0,deliverando
+Glanzvolle Drinkery,8020,# Commissionable Orders,692.0,734.0,deliverando
+Glanzvolle Drinkery,8020,Avg Basket Size €,24.6,25.68,deliverando
+Glanzvolle Drinkery,8020,# Negative Comments,3.0,8.0,deliverando
+Glanzvolle Drinkery,8020,# Positive Comments,1.0,1.0,deliverando
+Glanzvolle Drinkery,8020,% Kill Rate,77.0,73.0,deliverando
+Glanzvolle Drinkery,8020,Avg Time to Accept (s),27.0,28.0,deliverando
+Blaue Hideaway,8020,# Commissionable Orders,365.0,410.0,deliverando
+Blaue Hideaway,8020,Avg Basket Size €,24.13,24.18,deliverando
+Blaue Hideaway,8020,# Negative Comments,2.0,0.0,deliverando
+Blaue Hideaway,8020,# Positive Comments,1.0,1.0,deliverando
+Blaue Hideaway,8020,% Kill Rate,39.0,44.0,deliverando
+Blaue Hideaway,8020,Avg Time to Accept (s),20.0,18.0,deliverando
+Gemütliche Speiselokal,8020,# Commissionable Orders,106.0,120.0,deliverando
+Gemütliche Speiselokal,8020,Avg Basket Size €,25.02,27.79,deliverando
+Gemütliche Speiselokal,8020,# Negative Comments,1.0,0.0,deliverando
+Gemütliche Speiselokal,8020,# Positive Comments,1.0,1.0,deliverando
+Gemütliche Speiselokal,8020,% Kill Rate,0.1,85.0,deliverando
+Gemütliche Speiselokal,8020,Avg Time to Accept (s),34.0,31.0,deliverando
+Maritime Weinkeller,8053,# Commissionable Orders,746.0,835.0,deliverando
+Maritime Weinkeller,8053,Avg Basket Size €,26.34,28.07,deliverando
+Maritime Weinkeller,8053,# Negative Comments,0.0,4.0,deliverando
+Maritime Weinkeller,8053,# Positive Comments,1.0,1.0,deliverando
+Maritime Weinkeller,8053,% Kill Rate,54.0,51.0,deliverando
+Maritime Weinkeller,8053,Avg Time to Accept (s),21.0,24.0,deliverando
+Wiener Hangout,8051,# Commissionable Orders,336.0,362.0,deliverando
+Wiener Hangout,8051,Avg Basket Size €,17.46,18.67,deliverando
+Wiener Hangout,8051,# Negative Comments,9.0,9.0,deliverando
+Wiener Hangout,8051,# Positive Comments,1.0,1.0,deliverando
+Wiener Hangout,8051,% Kill Rate,75.0,81.0,deliverando
+Wiener Hangout,8051,Avg Time to Accept (s),26.0,26.0,deliverando
+Kleine Soda fountain,8010,# Commissionable Orders,486.0,561.0,deliverando
+Kleine Soda fountain,8010,Avg Basket Size €,24.3,24.81,deliverando
+Kleine Soda fountain,8010,# Negative Comments,1.0,1.0,deliverando
+Kleine Soda fountain,8010,# Positive Comments,1.0,1.0,deliverando
+Kleine Soda fountain,8010,% Kill Rate,85.0,79.0,deliverando
+Kleine Soda fountain,8010,Avg Time to Accept (s),15.0,16.0,deliverando
+Blumen Schänke,8042,# Commissionable Orders,248.0,211.0,deliverando
+Blumen Schänke,8042,Avg Basket Size €,20.72,20.81,deliverando
+Blumen Schänke,8042,# Negative Comments,1.0,1.0,deliverando
+Blumen Schänke,8042,# Positive Comments,1.0,1.0,deliverando
+Blumen Schänke,8042,% Kill Rate,93.0,81.0,deliverando
+Blumen Schänke,8042,Avg Time to Accept (s),18.0,20.0,deliverando
+Holz Herrenhaus,8010,# Commissionable Orders,333.0,335.0,deliverando
+Holz Herrenhaus,8010,Avg Basket Size €,22.6,22.93,deliverando
+Holz Herrenhaus,8010,# Negative Comments,6.0,1.0,deliverando
+Holz Herrenhaus,8010,# Positive Comments,1.0,1.0,deliverando
+Holz Herrenhaus,8010,% Kill Rate,103.0,106.0,deliverando
+Holz Herrenhaus,8010,Avg Time to Accept (s),127.0,104.0,deliverando
+Goldene Pizzeria,8020,# Commissionable Orders,328.0,322.0,deliverando
+Goldene Pizzeria,8020,Avg Basket Size €,21.85,23.49,deliverando
+Goldene Pizzeria,8020,# Negative Comments,1.0,0.0,deliverando
+Goldene Pizzeria,8020,# Positive Comments,1.0,1.0,deliverando
+Goldene Pizzeria,8020,% Kill Rate,107.0,99.0,deliverando
+Goldene Pizzeria,8020,Avg Time to Accept (s),27.0,20.0,deliverando
+Gute Kneipe,8020,# Commissionable Orders,116.0,81.0,deliverando
+Gute Kneipe,8020,Avg Basket Size €,12.23,12.9,deliverando
+Gute Kneipe,8020,# Negative Comments,0.0,1.0,deliverando
+Gute Kneipe,8020,# Positive Comments,1.0,1.0,deliverando
+Gute Kneipe,8020,% Kill Rate,0.13,109.0,deliverando
+Gute Kneipe,8020,Avg Time to Accept (s),397.0,392.0,deliverando
+Traditionelle Kneipe,8020,# Commissionable Orders,460.0,528.0,deliverando
+Traditionelle Kneipe,8020,Avg Basket Size €,26.82,25.62,deliverando
+Traditionelle Kneipe,8020,# Negative Comments,6.0,2.0,deliverando
+Traditionelle Kneipe,8020,# Positive Comments,1.0,1.0,deliverando
+Traditionelle Kneipe,8020,% Kill Rate,91.0,0.08,deliverando
+Traditionelle Kneipe,8020,Avg Time to Accept (s),22.0,23.0,deliverando
+Ruhige Küche,8054,# Commissionable Orders,23.0,35.0,deliverando
+Ruhige Küche,8054,Avg Basket Size €,18.54,19.56,deliverando
+Ruhige Küche,8054,# Negative Comments,0.0,0.0,deliverando
+Ruhige Küche,8054,# Positive Comments,1.0,1.0,deliverando
+Ruhige Küche,8054,% Kill Rate,77.0,77.0,deliverando
+Ruhige Küche,8054,Avg Time to Accept (s),100.0,40.0,deliverando
+Holz Winery,8020,# Commissionable Orders,36.0,36.0,deliverando
+Holz Winery,8020,Avg Basket Size €,13.84,13.41,deliverando
+Holz Winery,8020,# Negative Comments,0.0,0.0,deliverando
+Holz Winery,8020,# Positive Comments,1.0,1.0,deliverando
+Holz Winery,8020,% Kill Rate,78.0,0.08,deliverando
+Holz Winery,8020,Avg Time to Accept (s),387.0,366.0,deliverando
+Glänzende Brauhaus,8010,# Commissionable Orders,235.0,299.0,deliverando
+Glänzende Brauhaus,8010,Avg Basket Size €,31.06,32.16,deliverando
+Glänzende Brauhaus,8010,# Negative Comments,1.0,1.0,deliverando
+Glänzende Brauhaus,8010,# Positive Comments,1.0,1.0,deliverando
+Glänzende Brauhaus,8010,% Kill Rate,115.0,105.0,deliverando
+Glänzende Brauhaus,8010,Avg Time to Accept (s),21.0,12.0,deliverando
+Opulent Pizzeria,8020,# Commissionable Orders,64.0,80.0,deliverando
+Opulent Pizzeria,8020,Avg Basket Size €,11.63,11.5,deliverando
+Opulent Pizzeria,8020,# Negative Comments,0.0,0.0,deliverando
+Opulent Pizzeria,8020,# Positive Comments,1.0,1.0,deliverando
+Opulent Pizzeria,8020,% Kill Rate,35.0,29.0,deliverando
+Opulent Pizzeria,8020,Avg Time to Accept (s),345.0,339.0,deliverando
+Magische Dorfschenke,8010,# Commissionable Orders,0.0,0.0,deliverando
+Magische Dorfschenke,8010,# Negative Comments,0.0,0.0,deliverando
+Magische Dorfschenke,8010,# Positive Comments,0.0,0.0,deliverando
+Pittoreske Speisesaal,8020,# Commissionable Orders,0.0,0.0,deliverando
+Pittoreske Speisesaal,8020,# Negative Comments,0.0,0.0,deliverando
+Pittoreske Speisesaal,8020,# Positive Comments,0.0,0.0,deliverando
+Magische Hütte,8020,# Commissionable Orders,285.0,252.0,deliverando
+Magische Hütte,8020,Avg Basket Size €,19.86,22.08,deliverando
+Magische Hütte,8020,# Negative Comments,2.0,2.0,deliverando
+Magische Hütte,8020,# Positive Comments,1.0,1.0,deliverando
+Magische Hütte,8020,% Kill Rate,87.0,77.0,deliverando
+Magische Hütte,8020,Avg Time to Accept (s),16.0,17.0,deliverando
+Herzog Zirbelstube,8043,# Commissionable Orders,240.0,300.0,deliverando
+Herzog Zirbelstube,8043,Avg Basket Size €,24.08,25.44,deliverando
+Herzog Zirbelstube,8043,# Negative Comments,0.0,1.0,deliverando
+Herzog Zirbelstube,8043,# Positive Comments,1.0,1.0,deliverando
+Herzog Zirbelstube,8043,% Kill Rate,86.0,81.0,deliverando
+Herzog Zirbelstube,8043,Avg Time to Accept (s),18.0,14.0,deliverando
+Elegante Hangout,8054,# Commissionable Orders,229.0,253.0,deliverando
+Elegante Hangout,8054,Avg Basket Size €,18.65,18.55,deliverando
+Elegante Hangout,8054,# Negative Comments,1.0,1.0,deliverando
+Elegante Hangout,8054,# Positive Comments,1.0,1.0,deliverando
+Elegante Hangout,8054,% Kill Rate,0.07,71.0,deliverando
+Elegante Hangout,8054,Avg Time to Accept (s),13.0,11.0,deliverando
+Edelweiß Alm,8052,# Commissionable Orders,278.0,319.0,deliverando
+Edelweiß Alm,8052,Avg Basket Size €,23.98,24.27,deliverando
+Edelweiß Alm,8052,# Negative Comments,2.0,1.0,deliverando
+Edelweiß Alm,8052,# Positive Comments,1.0,1.0,deliverando
+Edelweiß Alm,8052,% Kill Rate,59.0,58.0,deliverando
+Edelweiß Alm,8052,Avg Time to Accept (s),23.0,21.0,deliverando
+Wolkenkratzer Zirbelstube,8042,# Commissionable Orders,674.0,643.0,deliverando
+Wolkenkratzer Zirbelstube,8042,Avg Basket Size €,14.01,14.31,deliverando
+Wolkenkratzer Zirbelstube,8042,# Negative Comments,6.0,3.0,deliverando
+Wolkenkratzer Zirbelstube,8042,# Positive Comments,1.0,1.0,deliverando
+Wolkenkratzer Zirbelstube,8042,% Kill Rate,47.0,43.0,deliverando
+Wolkenkratzer Zirbelstube,8042,Avg Time to Accept (s),11.0,10.0,deliverando
+Rauchige Wanderhütte,8020,# Commissionable Orders,1463.0,1634.0,deliverando
+Rauchige Wanderhütte,8020,Avg Basket Size €,19.56,19.89,deliverando
+Rauchige Wanderhütte,8020,# Negative Comments,1.0,1.0,deliverando
+Rauchige Wanderhütte,8020,# Positive Comments,1.0,1.0,deliverando
+Rauchige Wanderhütte,8020,% Kill Rate,64.0,61.0,deliverando
+Rauchige Wanderhütte,8020,Avg Time to Accept (s),9.0,9.0,deliverando
+Gastfreundliche Tenne,8041,# Commissionable Orders,67.0,114.0,deliverando
+Gastfreundliche Tenne,8041,Avg Basket Size €,24.43,23.95,deliverando
+Gastfreundliche Tenne,8041,# Negative Comments,0.0,3.0,deliverando
+Gastfreundliche Tenne,8041,# Positive Comments,1.0,1.0,deliverando
+Gastfreundliche Tenne,8041,% Kill Rate,133.0,0.12,deliverando
+Gastfreundliche Tenne,8041,Avg Time to Accept (s),10.0,11.0,deliverando
+Gute Feuerstelle,8010,# Commissionable Orders,869.0,651.0,deliverando
+Gute Feuerstelle,8010,Avg Basket Size €,24.98,25.16,deliverando
+Gute Feuerstelle,8010,# Negative Comments,1.0,3.0,deliverando
+Gute Feuerstelle,8010,# Positive Comments,1.0,1.0,deliverando
+Gute Feuerstelle,8010,% Kill Rate,69.0,67.0,deliverando
+Gute Feuerstelle,8010,Avg Time to Accept (s),16.0,12.0,deliverando
+Weinstube Taverne,8010,# Commissionable Orders,52.0,157.0,deliverando
+Weinstube Taverne,8010,Avg Basket Size €,19.5,19.24,deliverando
+Weinstube Taverne,8010,# Negative Comments,1.0,4.0,deliverando
+Weinstube Taverne,8010,# Positive Comments,1.0,1.0,deliverando
+Weinstube Taverne,8010,Avg Time to Accept (s),32.0,21.0,deliverando
+Bauer Küche,8041,# Commissionable Orders,191.0,129.0,deliverando
+Bauer Küche,8041,Avg Basket Size €,28.18,26.76,deliverando
+Bauer Küche,8041,# Negative Comments,1.0,0.0,deliverando
+Bauer Küche,8041,# Positive Comments,1.0,1.0,deliverando
+Bauer Küche,8041,% Kill Rate,127.0,112.0,deliverando
+Bauer Küche,8041,Avg Time to Accept (s),38.0,36.0,deliverando
+Winterliche Schankstube,8010,# Commissionable Orders,370.0,439.0,deliverando
+Winterliche Schankstube,8010,Avg Basket Size €,17.38,18.36,deliverando
+Winterliche Schankstube,8010,# Negative Comments,5.0,7.0,deliverando
+Winterliche Schankstube,8010,# Positive Comments,1.0,1.0,deliverando
+Winterliche Schankstube,8010,% Kill Rate,96.0,94.0,deliverando
+Winterliche Schankstube,8010,Avg Time to Accept (s),17.0,14.0,deliverando
+Sanfte Pizzeria,8010,# Commissionable Orders,1899.0,1859.0,deliverando
+Sanfte Pizzeria,8010,Avg Basket Size €,23.53,23.99,deliverando
+Sanfte Pizzeria,8010,# Negative Comments,4.0,7.0,deliverando
+Sanfte Pizzeria,8010,# Positive Comments,1.0,1.0,deliverando
+Sanfte Pizzeria,8010,% Kill Rate,63.0,0.06,deliverando
+Sanfte Pizzeria,8010,Avg Time to Accept (s),15.0,14.0,deliverando
+Verträumte Felsenkeller,8020,# Commissionable Orders,80.0,76.0,deliverando
+Verträumte Felsenkeller,8020,Avg Basket Size €,21.62,22.42,deliverando
+Verträumte Felsenkeller,8020,# Negative Comments,2.0,0.0,deliverando
+Verträumte Felsenkeller,8020,# Positive Comments,1.0,1.0,deliverando
+Verträumte Felsenkeller,8020,% Kill Rate,111.0,111.0,deliverando
+Verträumte Felsenkeller,8020,Avg Time to Accept (s),49.0,63.0,deliverando
+Blauer Speiselokal,8010,# Commissionable Orders,94.0,100.0,deliverando
+Blauer Speiselokal,8010,Avg Basket Size €,28.38,30.31,deliverando
+Blauer Speiselokal,8010,# Negative Comments,1.0,1.0,deliverando
+Blauer Speiselokal,8010,# Positive Comments,1.0,1.0,deliverando
+Blauer Speiselokal,8010,% Kill Rate,184.0,198.0,deliverando
+Blauer Speiselokal,8010,Avg Time to Accept (s),13.0,14.0,deliverando
+Hof Schanke,8010,# Commissionable Orders,498.0,637.0,deliverando
+Hof Schanke,8010,Avg Basket Size €,16.85,17.92,deliverando
+Hof Schanke,8010,# Negative Comments,8.0,4.0,deliverando
+Hof Schanke,8010,# Positive Comments,1.0,1.0,deliverando
+Hof Schanke,8010,% Kill Rate,92.0,97.0,deliverando
+Hof Schanke,8010,Avg Time to Accept (s),16.0,15.0,deliverando
+Edelweiß Scheune,8020,# Commissionable Orders,360.0,508.0,deliverando
+Edelweiß Scheune,8020,Avg Basket Size €,15.92,16.48,deliverando
+Edelweiß Scheune,8020,# Negative Comments,3.0,2.0,deliverando
+Edelweiß Scheune,8020,# Positive Comments,1.0,1.0,deliverando
+Edelweiß Scheune,8020,% Kill Rate,79.0,74.0,deliverando
+Edelweiß Scheune,8020,Avg Time to Accept (s),19.0,17.0,deliverando
+Geheimnisvolle Ginmill,8020,# Commissionable Orders,119.0,102.0,deliverando
+Geheimnisvolle Ginmill,8020,Avg Basket Size €,17.43,16.6,deliverando
+Geheimnisvolle Ginmill,8020,# Negative Comments,3.0,0.0,deliverando
+Geheimnisvolle Ginmill,8020,# Positive Comments,1.0,1.0,deliverando
+Geheimnisvolle Ginmill,8020,% Kill Rate,76.0,72.0,deliverando
+Geheimnisvolle Ginmill,8020,Avg Time to Accept (s),331.0,341.0,deliverando
+Stilvolle Stuben,8010,# Commissionable Orders,88.0,115.0,deliverando
+Stilvolle Stuben,8010,Avg Basket Size €,20.07,20.76,deliverando
+Stilvolle Stuben,8010,# Negative Comments,1.0,0.0,deliverando
+Stilvolle Stuben,8010,# Positive Comments,1.0,1.0,deliverando
+Stilvolle Stuben,8010,% Kill Rate,121.0,135.0,deliverando
+Stilvolle Stuben,8010,Avg Time to Accept (s),160.0,51.0,deliverando
+Gute Küche,8020,# Commissionable Orders,178.0,101.0,deliverando
+Gute Küche,8020,Avg Basket Size €,19.74,20.18,deliverando
+Gute Küche,8020,# Negative Comments,1.0,2.0,deliverando
+Gute Küche,8020,# Positive Comments,1.0,1.0,deliverando
+Gute Küche,8020,% Kill Rate,58.0,0.04,deliverando
+Gute Küche,8020,Avg Time to Accept (s),22.0,34.0,deliverando
+Geheimnisvolle Wirtshaus,8010,# Commissionable Orders,273.0,378.0,deliverando
+Geheimnisvolle Wirtshaus,8010,Avg Basket Size €,22.36,23.35,deliverando
+Geheimnisvolle Wirtshaus,8010,# Negative Comments,1.0,2.0,deliverando
+Geheimnisvolle Wirtshaus,8010,# Positive Comments,1.0,1.0,deliverando
+Geheimnisvolle Wirtshaus,8010,% Kill Rate,56.0,58.0,deliverando
+Geheimnisvolle Wirtshaus,8010,Avg Time to Accept (s),16.0,16.0,deliverando
+Romantische Platz,8020,# Commissionable Orders,330.0,451.0,deliverando
+Romantische Platz,8020,Avg Basket Size €,21.46,23.11,deliverando
+Romantische Platz,8020,# Negative Comments,1.0,1.0,deliverando
+Romantische Platz,8020,# Positive Comments,1.0,1.0,deliverando
+Romantische Platz,8020,% Kill Rate,65.0,59.0,deliverando
+Romantische Platz,8020,Avg Time to Accept (s),18.0,21.0,deliverando
+Romantische Weinstube,8020,# Commissionable Orders,66.0,64.0,deliverando
+Romantische Weinstube,8020,Avg Basket Size €,21.53,19.98,deliverando
+Romantische Weinstube,8020,# Negative Comments,0.0,0.0,deliverando
+Romantische Weinstube,8020,# Positive Comments,1.0,1.0,deliverando
+Romantische Weinstube,8020,% Kill Rate,71.0,68.0,deliverando
+Romantische Weinstube,8020,Avg Time to Accept (s),516.0,513.0,deliverando
+Traditionelle Braustube,8053,# Commissionable Orders,537.0,591.0,deliverando
+Traditionelle Braustube,8053,Avg Basket Size €,17.65,17.37,deliverando
+Traditionelle Braustube,8053,# Negative Comments,3.0,8.0,deliverando
+Traditionelle Braustube,8053,# Positive Comments,1.0,1.0,deliverando
+Traditionelle Braustube,8053,% Kill Rate,53.0,56.0,deliverando
+Traditionelle Braustube,8053,Avg Time to Accept (s),11.0,9.0,deliverando
+Wirtshaus Weinbar,8054,# Commissionable Orders,184.0,202.0,deliverando
+Wirtshaus Weinbar,8054,Avg Basket Size €,14.73,14.77,deliverando
+Wirtshaus Weinbar,8054,# Negative Comments,1.0,1.0,deliverando
+Wirtshaus Weinbar,8054,# Positive Comments,1.0,1.0,deliverando
+Wirtshaus Weinbar,8054,% Kill Rate,53.0,68.0,deliverando
+Wirtshaus Weinbar,8054,Avg Time to Accept (s),20.0,18.0,deliverando
+Grüne Tanzschuppen,8045,# Commissionable Orders,319.0,363.0,deliverando
+Grüne Tanzschuppen,8045,Avg Basket Size €,21.59,23.22,deliverando
+Grüne Tanzschuppen,8045,# Negative Comments,3.0,4.0,deliverando
+Grüne Tanzschuppen,8045,# Positive Comments,1.0,1.0,deliverando
+Grüne Tanzschuppen,8045,% Kill Rate,88.0,77.0,deliverando
+Grüne Tanzschuppen,8045,Avg Time to Accept (s),18.0,18.0,deliverando
+Legendary Kellerstüberl,8010,# Commissionable Orders,265.0,268.0,deliverando
+Legendary Kellerstüberl,8010,Avg Basket Size €,16.83,16.75,deliverando
+Legendary Kellerstüberl,8010,# Negative Comments,2.0,0.0,deliverando
+Legendary Kellerstüberl,8010,# Positive Comments,1.0,1.0,deliverando
+Legendary Kellerstüberl,8010,% Kill Rate,59.0,62.0,deliverando
+Legendary Kellerstüberl,8010,Avg Time to Accept (s),19.0,21.0,deliverando
+Moderne Weinkneipe,8010,# Commissionable Orders,767.0,752.0,deliverando
+Moderne Weinkneipe,8010,Avg Basket Size €,26.48,26.1,deliverando
+Moderne Weinkneipe,8010,# Negative Comments,1.0,0.0,deliverando
+Moderne Weinkneipe,8010,# Positive Comments,1.0,1.0,deliverando
+Moderne Weinkneipe,8010,% Kill Rate,79.0,82.0,deliverando
+Moderne Weinkneipe,8010,Avg Time to Accept (s),19.0,19.0,deliverando
+Mozart Zirbelstube,8055,# Commissionable Orders,318.0,360.0,deliverando
+Mozart Zirbelstube,8055,Avg Basket Size €,18.36,18.39,deliverando
+Mozart Zirbelstube,8055,# Negative Comments,0.0,0.0,deliverando
+Mozart Zirbelstube,8055,# Positive Comments,1.0,1.0,deliverando
+Mozart Zirbelstube,8055,% Kill Rate,86.0,86.0,deliverando
+Mozart Zirbelstube,8055,Avg Time to Accept (s),9.0,10.0,deliverando
+Prachtvolle Kaminzimmer,8010,# Commissionable Orders,6.0,1.0,deliverando
+Prachtvolle Kaminzimmer,8010,# Negative Comments,0.0,0.0,deliverando
+Prachtvolle Kaminzimmer,8010,# Positive Comments,1.0,0.0,deliverando
+Prachtvolle Kaminzimmer,8010,% Kill Rate,79.0,93.0,deliverando
+Himmel Ort,8020,# Commissionable Orders,114.0,108.0,deliverando
+Himmel Ort,8020,Avg Basket Size €,20.5,18.26,deliverando
+Himmel Ort,8020,# Negative Comments,2.0,0.0,deliverando
+Himmel Ort,8020,# Positive Comments,1.0,1.0,deliverando
+Himmel Ort,8020,% Kill Rate,98.0,0.08,deliverando
+Himmel Ort,8020,Avg Time to Accept (s),333.0,446.0,deliverando
+Sonnige Drinkery,8053,# Commissionable Orders,160.0,195.0,deliverando
+Sonnige Drinkery,8053,Avg Basket Size €,23.42,22.02,deliverando
+Sonnige Drinkery,8053,# Negative Comments,2.0,1.0,deliverando
+Sonnige Drinkery,8053,# Positive Comments,1.0,1.0,deliverando
+Sonnige Drinkery,8053,% Kill Rate,109.0,94.0,deliverando
+Sonnige Drinkery,8053,Avg Time to Accept (s),21.0,23.0,deliverando
+Gebackene Stubn,8010,# Commissionable Orders,1933.0,2180.0,deliverando
+Gebackene Stubn,8010,Avg Basket Size €,20.42,21.52,deliverando
+Gebackene Stubn,8010,# Negative Comments,7.0,10.0,deliverando
+Gebackene Stubn,8010,# Positive Comments,1.0,1.0,deliverando
+Gebackene Stubn,8010,% Kill Rate,51.0,47.0,deliverando
+Gebackene Stubn,8010,Avg Time to Accept (s),16.0,13.0,deliverando
+Bunte Ginmill,8010,# Commissionable Orders,624.0,634.0,deliverando
+Bunte Ginmill,8010,Avg Basket Size €,21.1,21.05,deliverando
+Bunte Ginmill,8010,# Negative Comments,0.0,1.0,deliverando
+Bunte Ginmill,8010,# Positive Comments,1.0,1.0,deliverando
+Bunte Ginmill,8010,% Kill Rate,84.0,76.0,deliverando
+Bunte Ginmill,8010,Avg Time to Accept (s),10.0,10.0,deliverando
+Traditionelle Scheune,8010,# Commissionable Orders,827.0,918.0,deliverando
+Traditionelle Scheune,8010,Avg Basket Size €,17.19,17.21,deliverando
+Traditionelle Scheune,8010,# Negative Comments,6.0,9.0,deliverando
+Traditionelle Scheune,8010,# Positive Comments,1.0,1.0,deliverando
+Traditionelle Scheune,8010,% Kill Rate,79.0,86.0,deliverando
+Traditionelle Scheune,8010,Avg Time to Accept (s),16.0,15.0,deliverando
+Edelweiß Heuriger,8010,# Commissionable Orders,12.0,115.0,deliverando
+Edelweiß Heuriger,8010,Avg Basket Size €,23.43,18.32,deliverando
+Edelweiß Heuriger,8010,# Negative Comments,0.0,1.0,deliverando
+Edelweiß Heuriger,8010,# Positive Comments,1.0,1.0,deliverando
+Edelweiß Heuriger,8010,% Kill Rate,83.0,93.0,deliverando
+Edelweiß Heuriger,8010,Avg Time to Accept (s),640.0,440.0,deliverando
+Idyllische Ratsstube,8042,# Commissionable Orders,387.0,453.0,deliverando
+Idyllische Ratsstube,8042,Avg Basket Size €,21.52,22.19,deliverando
+Idyllische Ratsstube,8042,# Negative Comments,0.0,2.0,deliverando
+Idyllische Ratsstube,8042,# Positive Comments,1.0,1.0,deliverando
+Idyllische Ratsstube,8042,% Kill Rate,71.0,65.0,deliverando
+Idyllische Ratsstube,8042,Avg Time to Accept (s),18.0,19.0,deliverando
+Alpen Alm,8010,# Commissionable Orders,320.0,215.0,deliverando
+Alpen Alm,8010,Avg Basket Size €,17.75,18.84,deliverando
+Alpen Alm,8010,# Negative Comments,1.0,1.0,deliverando
+Alpen Alm,8010,# Positive Comments,1.0,1.0,deliverando
+Alpen Alm,8010,% Kill Rate,59.0,57.0,deliverando
+Alpen Alm,8010,Avg Time to Accept (s),9.0,9.0,deliverando
+Ruhige Stadl,8051,# Commissionable Orders,336.0,430.0,deliverando
+Ruhige Stadl,8051,Avg Basket Size €,18.24,17.87,deliverando
+Ruhige Stadl,8051,# Negative Comments,1.0,3.0,deliverando
+Ruhige Stadl,8051,# Positive Comments,1.0,1.0,deliverando
+Ruhige Stadl,8051,% Kill Rate,93.0,93.0,deliverando
+Ruhige Stadl,8051,Avg Time to Accept (s),14.0,14.0,deliverando
+Ruhige Drinkery,8041,# Commissionable Orders,41.0,68.0,deliverando
+Ruhige Drinkery,8041,Avg Basket Size €,21.71,21.55,deliverando
+Ruhige Drinkery,8041,# Negative Comments,1.0,0.0,deliverando
+Ruhige Drinkery,8041,# Positive Comments,1.0,1.0,deliverando
+Ruhige Drinkery,8041,% Kill Rate,94.0,75.0,deliverando
+Ruhige Drinkery,8041,Avg Time to Accept (s),15.0,14.0,deliverando
+Kultivierte Zirbelstube,8010,# Commissionable Orders,38.0,150.0,deliverando
+Kultivierte Zirbelstube,8010,Avg Basket Size €,15.72,13.51,deliverando
+Kultivierte Zirbelstube,8010,# Negative Comments,2.0,3.0,deliverando
+Kultivierte Zirbelstube,8010,# Positive Comments,1.0,1.0,deliverando
+Kultivierte Zirbelstube,8010,% Kill Rate,89.0,78.0,deliverando
+Kultivierte Zirbelstube,8010,Avg Time to Accept (s),17.0,17.0,deliverando
+Herbstliche Verköstigungszimmer,8042,# Commissionable Orders,0.0,0.0,deliverando
+Herbstliche Verköstigungszimmer,8042,# Negative Comments,0.0,0.0,deliverando
+Herbstliche Verköstigungszimmer,8042,# Positive Comments,0.0,0.0,deliverando
+Himmel Hof,8052,# Commissionable Orders,319.0,342.0,deliverando
+Himmel Hof,8052,Avg Basket Size €,19.6,20.61,deliverando
+Himmel Hof,8052,# Negative Comments,1.0,1.0,deliverando
+Himmel Hof,8052,# Positive Comments,1.0,1.0,deliverando
+Himmel Hof,8052,% Kill Rate,44.0,45.0,deliverando
+Himmel Hof,8052,Avg Time to Accept (s),17.0,17.0,deliverando
+Rustikale Zirbelstube,8020,# Commissionable Orders,139.0,221.0,deliverando
+Rustikale Zirbelstube,8020,Avg Basket Size €,14.73,12.2,deliverando
+Rustikale Zirbelstube,8020,# Negative Comments,2.0,1.0,deliverando
+Rustikale Zirbelstube,8020,# Positive Comments,1.0,1.0,deliverando
+Rustikale Zirbelstube,8020,% Kill Rate,59.0,62.0,deliverando
+Rustikale Zirbelstube,8020,Avg Time to Accept (s),310.0,289.0,deliverando
+Wald Wirtshaus,8020,# Commissionable Orders,0.0,0.0,deliverando
+Wald Wirtshaus,8020,# Negative Comments,0.0,0.0,deliverando
+Wald Wirtshaus,8020,# Positive Comments,0.0,0.0,deliverando
+Ruhige Bierstube,8010,# Commissionable Orders,11.0,0.0,deliverando
+Ruhige Bierstube,8010,# Negative Comments,0.0,0.0,deliverando
+Ruhige Bierstube,8010,# Positive Comments,0.0,0.0,deliverando
+Ruhige Bierstube,8010,% Kill Rate,86.0,101.0,deliverando
+Ruhige Soda fountain,8020,# Commissionable Orders,10.0,22.0,deliverando
+Ruhige Soda fountain,8020,Avg Basket Size €,29.43,25.19,deliverando
+Ruhige Soda fountain,8020,# Negative Comments,0.0,0.0,deliverando
+Ruhige Soda fountain,8020,# Positive Comments,0.0,1.0,deliverando
+Ruhige Soda fountain,8020,% Kill Rate,0.03,48.0,deliverando
+Ruhige Soda fountain,8020,Avg Time to Accept (s),156.0,641.0,deliverando
+Idyllische Rathskeller,8020,# Commissionable Orders,47.0,67.0,deliverando
+Idyllische Rathskeller,8020,Avg Basket Size €,26.25,22.82,deliverando
+Idyllische Rathskeller,8020,# Negative Comments,0.0,0.0,deliverando
+Idyllische Rathskeller,8020,# Positive Comments,1.0,1.0,deliverando
+Idyllische Rathskeller,8020,% Kill Rate,147.0,0.15,deliverando
+Idyllische Rathskeller,8020,Avg Time to Accept (s),23.0,18.0,deliverando
+Bäuerliche Festscheune,8010,# Commissionable Orders,212.0,309.0,deliverando
+Bäuerliche Festscheune,8010,Avg Basket Size €,23.35,24.3,deliverando
+Bäuerliche Festscheune,8010,# Negative Comments,3.0,1.0,deliverando
+Bäuerliche Festscheune,8010,# Positive Comments,1.0,1.0,deliverando
+Bäuerliche Festscheune,8010,% Kill Rate,39.0,54.0,deliverando
+Bäuerliche Festscheune,8010,Avg Time to Accept (s),10.0,10.0,deliverando
+Exotische Zirbelstube,8010,# Commissionable Orders,436.0,417.0,deliverando
+Exotische Zirbelstube,8010,Avg Basket Size €,26.53,27.16,deliverando
+Exotische Zirbelstube,8010,# Negative Comments,3.0,2.0,deliverando
+Exotische Zirbelstube,8010,# Positive Comments,1.0,1.0,deliverando
+Exotische Zirbelstube,8010,% Kill Rate,83.0,84.0,deliverando
+Exotische Zirbelstube,8010,Avg Time to Accept (s),452.0,484.0,deliverando
+Bäuerliche Festscheune,8055,# Commissionable Orders,129.0,132.0,deliverando
+Bäuerliche Festscheune,8055,Avg Basket Size €,26.38,25.71,deliverando
+Bäuerliche Festscheune,8055,# Negative Comments,1.0,3.0,deliverando
+Bäuerliche Festscheune,8055,# Positive Comments,1.0,1.0,deliverando
+Bäuerliche Festscheune,8055,% Kill Rate,58.0,0.06,deliverando
+Bäuerliche Festscheune,8055,Avg Time to Accept (s),28.0,21.0,deliverando
+Bäuerliche Festscheune,8010,# Commissionable Orders,761.0,849.0,deliverando
+Bäuerliche Festscheune,8010,Avg Basket Size €,21.84,22.03,deliverando
+Bäuerliche Festscheune,8010,# Negative Comments,1.0,5.0,deliverando
+Bäuerliche Festscheune,8010,# Positive Comments,1.0,1.0,deliverando
+Bäuerliche Festscheune,8010,% Kill Rate,33.0,36.0,deliverando
+Bäuerliche Festscheune,8010,Avg Time to Accept (s),444.0,565.0,deliverando
+Rustikale Kellerstüberl,8045,# Commissionable Orders,137.0,133.0,deliverando
+Rustikale Kellerstüberl,8045,Avg Basket Size €,25.51,26.9,deliverando
+Rustikale Kellerstüberl,8045,# Negative Comments,1.0,0.0,deliverando
+Rustikale Kellerstüberl,8045,# Positive Comments,1.0,1.0,deliverando
+Rustikale Kellerstüberl,8045,% Kill Rate,108.0,104.0,deliverando
+Rustikale Kellerstüberl,8045,Avg Time to Accept (s),17.0,17.0,deliverando
+Hof Winkel,8010,# Commissionable Orders,17.0,3.0,deliverando
+Hof Winkel,8010,Avg Basket Size €,20.99,19.05,deliverando
+Hof Winkel,8010,# Negative Comments,0.0,0.0,deliverando
+Hof Winkel,8010,# Positive Comments,1.0,0.0,deliverando
+Hof Winkel,8010,% Kill Rate,167.0,134.0,deliverando
+Hof Winkel,8010,Avg Time to Accept (s),569.0,513.0,deliverando
+Heimat Waldhaus,8054,# Commissionable Orders,172.0,201.0,deliverando
+Heimat Waldhaus,8054,Avg Basket Size €,16.18,19.56,deliverando
+Heimat Waldhaus,8054,# Negative Comments,1.0,2.0,deliverando
+Heimat Waldhaus,8054,# Positive Comments,1.0,1.0,deliverando
+Heimat Waldhaus,8054,% Kill Rate,89.0,93.0,deliverando
+Heimat Waldhaus,8054,Avg Time to Accept (s),12.0,13.0,deliverando
+Roter See,8010,# Commissionable Orders,15.0,30.0,deliverando
+Roter See,8010,Avg Basket Size €,19.83,22.29,deliverando
+Roter See,8010,# Negative Comments,0.0,0.0,deliverando
+Roter See,8010,# Positive Comments,1.0,1.0,deliverando
+Roter See,8010,% Kill Rate,53.0,42.0,deliverando
+Roter See,8010,Avg Time to Accept (s),308.0,390.0,deliverando
+Rauchige Hofladen,8010,# Commissionable Orders,183.0,112.0,deliverando
+Rauchige Hofladen,8010,Avg Basket Size €,15.3,14.91,deliverando
+Rauchige Hofladen,8010,# Negative Comments,0.0,0.0,deliverando
+Rauchige Hofladen,8010,# Positive Comments,1.0,1.0,deliverando
+Rauchige Hofladen,8010,% Kill Rate,83.0,93.0,deliverando
+Rauchige Hofladen,8010,Avg Time to Accept (s),477.0,517.0,deliverando
+Rustikale Feuerstelle,8020,# Commissionable Orders,9.0,0.0,deliverando
+Rustikale Feuerstelle,8020,# Negative Comments,0.0,0.0,deliverando
+Rustikale Feuerstelle,8020,# Positive Comments,0.0,0.0,deliverando
+Rustikale Feuerstelle,8020,% Kill Rate,0.1,106.0,deliverando
+Fröhliche Herberge,8010,# Commissionable Orders,36.0,49.0,deliverando
+Fröhliche Herberge,8010,Avg Basket Size €,18.02,22.04,deliverando
+Fröhliche Herberge,8010,# Negative Comments,0.0,0.0,deliverando
+Fröhliche Herberge,8010,# Positive Comments,1.0,1.0,deliverando
+Fröhliche Herberge,8010,% Kill Rate,112.0,97.0,deliverando
+Fröhliche Herberge,8010,Avg Time to Accept (s),337.0,517.0,deliverando
+Nostalgische Eatery,8010,# Commissionable Orders,502.0,474.0,deliverando
+Nostalgische Eatery,8010,Avg Basket Size €,22.53,21.49,deliverando
+Nostalgische Eatery,8010,# Negative Comments,2.0,1.0,deliverando
+Nostalgische Eatery,8010,# Positive Comments,1.0,1.0,deliverando
+Nostalgische Eatery,8010,% Kill Rate,36.0,36.0,deliverando
+Nostalgische Eatery,8010,Avg Time to Accept (s),332.0,347.0,deliverando
+Rasante Wirtshaus,8010,# Commissionable Orders,54.0,20.0,deliverando
+Rasante Wirtshaus,8010,Avg Basket Size €,12.68,13.94,deliverando
+Rasante Wirtshaus,8010,# Negative Comments,0.0,0.0,deliverando
+Rasante Wirtshaus,8010,# Positive Comments,1.0,1.0,deliverando
+Rasante Wirtshaus,8010,% Kill Rate,47.0,65.0,deliverando
+Rasante Wirtshaus,8010,Avg Time to Accept (s),530.0,575.0,deliverando
+Ruhige Soda fountain,8010,# Commissionable Orders,387.0,341.0,deliverando
+Ruhige Soda fountain,8010,Avg Basket Size €,26.24,26.76,deliverando
+Ruhige Soda fountain,8010,# Negative Comments,1.0,3.0,deliverando
+Ruhige Soda fountain,8010,# Positive Comments,1.0,1.0,deliverando
+Ruhige Soda fountain,8010,% Kill Rate,43.0,48.0,deliverando
+Ruhige Soda fountain,8010,Avg Time to Accept (s),478.0,417.0,deliverando
+Wiener Watering hole,8020,# Commissionable Orders,261.0,329.0,deliverando
+Wiener Watering hole,8020,Avg Basket Size €,14.63,13.01,deliverando
+Wiener Watering hole,8020,# Negative Comments,1.0,2.0,deliverando
+Wiener Watering hole,8020,# Positive Comments,1.0,1.0,deliverando
+Wiener Watering hole,8020,% Kill Rate,32.0,31.0,deliverando
+Wiener Watering hole,8020,Avg Time to Accept (s),415.0,409.0,deliverando
+Gute Schmankerl,8010,# Commissionable Orders,1.0,0.0,deliverando
+Gute Schmankerl,8010,# Negative Comments,0.0,0.0,deliverando
+Gute Schmankerl,8010,# Positive Comments,0.0,0.0,deliverando
+Gute Schmankerl,8010,% Kill Rate,198.0,173.0,deliverando
+Wald Gaststube,8020,# Commissionable Orders,34.0,42.0,deliverando
+Wald Gaststube,8020,Avg Basket Size €,21.52,18.48,deliverando
+Wald Gaststube,8020,# Negative Comments,0.0,0.0,deliverando
+Wald Gaststube,8020,# Positive Comments,1.0,1.0,deliverando
+Wald Gaststube,8020,% Kill Rate,99.0,113.0,deliverando
+Wald Gaststube,8020,Avg Time to Accept (s),423.0,399.0,deliverando
+Glänzende Juke joint,8010,# Commissionable Orders,1982.0,1913.0,deliverando
+Glänzende Juke joint,8010,Avg Basket Size €,23.67,23.7,deliverando
+Glänzende Juke joint,8010,# Negative Comments,0.0,2.0,deliverando
+Glänzende Juke joint,8010,# Positive Comments,1.0,1.0,deliverando
+Glänzende Juke joint,8010,% Kill Rate,65.0,65.0,deliverando
+Glänzende Juke joint,8010,Avg Time to Accept (s),402.0,405.0,deliverando
+Romantische Gastzimmer,8010,# Commissionable Orders,399.0,354.0,deliverando
+Romantische Gastzimmer,8010,Avg Basket Size €,25.46,27.02,deliverando
+Romantische Gastzimmer,8010,# Negative Comments,1.0,2.0,deliverando
+Romantische Gastzimmer,8010,# Positive Comments,1.0,1.0,deliverando
+Romantische Gastzimmer,8010,% Kill Rate,54.0,45.0,deliverando
+Romantische Gastzimmer,8010,Avg Time to Accept (s),16.0,17.0,deliverando
+Herzog Rittersaal,8010,# Commissionable Orders,16.0,54.0,deliverando
+Herzog Rittersaal,8010,Avg Basket Size €,25.06,20.89,deliverando
+Herzog Rittersaal,8010,# Negative Comments,0.0,1.0,deliverando
+Herzog Rittersaal,8010,# Positive Comments,1.0,1.0,deliverando
+Herzog Rittersaal,8010,% Kill Rate,16.0,47.0,deliverando
+Herzog Rittersaal,8010,Avg Time to Accept (s),331.0,464.0,deliverando
+Prachtvolle Garten,8010,# Commissionable Orders,63.0,69.0,deliverando
+Prachtvolle Garten,8010,Avg Basket Size €,23.01,24.23,deliverando
+Prachtvolle Garten,8010,# Negative Comments,1.0,0.0,deliverando
+Prachtvolle Garten,8010,# Positive Comments,1.0,1.0,deliverando
+Prachtvolle Garten,8010,Avg Time to Accept (s),392.0,614.0,deliverando
+Stern Feuerstelle,8010,# Commissionable Orders,311.0,212.0,deliverando
+Stern Feuerstelle,8010,Avg Basket Size €,22.13,22.08,deliverando
+Stern Feuerstelle,8010,# Negative Comments,2.0,2.0,deliverando
+Stern Feuerstelle,8010,# Positive Comments,1.0,1.0,deliverando
+Stern Feuerstelle,8010,% Kill Rate,59.0,69.0,deliverando
+Stern Feuerstelle,8010,Avg Time to Accept (s),475.0,523.0,deliverando
+Exotische Jausenstation,8051,# Commissionable Orders,136.0,153.0,deliverando
+Exotische Jausenstation,8051,Avg Basket Size €,22.53,22.56,deliverando
+Exotische Jausenstation,8051,# Negative Comments,0.0,1.0,deliverando
+Exotische Jausenstation,8051,# Positive Comments,1.0,1.0,deliverando
+Exotische Jausenstation,8051,% Kill Rate,53.0,62.0,deliverando
+Exotische Jausenstation,8051,Avg Time to Accept (s),10.0,11.0,deliverando
+Verträumte Brauhaus,8010,# Commissionable Orders,72.0,119.0,deliverando
+Verträumte Brauhaus,8010,Avg Basket Size €,19.27,15.73,deliverando
+Verträumte Brauhaus,8010,# Negative Comments,0.0,0.0,deliverando
+Verträumte Brauhaus,8010,# Positive Comments,1.0,1.0,deliverando
+Verträumte Brauhaus,8010,% Kill Rate,0.04,36.0,deliverando
+Verträumte Brauhaus,8010,Avg Time to Accept (s),452.0,430.0,deliverando
+Magische Südseeparadies,8010,# Commissionable Orders,0.0,0.0,deliverando
+Magische Südseeparadies,8010,# Negative Comments,0.0,0.0,deliverando
+Magische Südseeparadies,8010,# Positive Comments,0.0,0.0,deliverando
+Ruhige Soda fountain,8020,# Commissionable Orders,131.0,124.0,deliverando
+Ruhige Soda fountain,8020,Avg Basket Size €,28.33,26.77,deliverando
+Ruhige Soda fountain,8020,# Negative Comments,1.0,0.0,deliverando
+Ruhige Soda fountain,8020,# Positive Comments,1.0,1.0,deliverando
+Ruhige Soda fountain,8020,% Kill Rate,59.0,44.0,deliverando
+Ruhige Soda fountain,8020,Avg Time to Accept (s),488.0,404.0,deliverando
+Stille Kneipe,8020,# Commissionable Orders,166.0,154.0,deliverando
+Stille Kneipe,8020,Avg Basket Size €,29.53,30.88,deliverando
+Stille Kneipe,8020,# Negative Comments,0.0,2.0,deliverando
+Stille Kneipe,8020,# Positive Comments,1.0,1.0,deliverando
+Stille Kneipe,8020,% Kill Rate,93.0,95.0,deliverando
+Stille Kneipe,8020,Avg Time to Accept (s),458.0,407.0,deliverando
+Große Küche,8010,# Commissionable Orders,841.0,682.0,deliverando
+Große Küche,8010,Avg Basket Size €,23.04,23.47,deliverando
+Große Küche,8010,# Negative Comments,7.0,2.0,deliverando
+Große Küche,8010,# Positive Comments,1.0,1.0,deliverando
+Große Küche,8010,% Kill Rate,63.0,74.0,deliverando
+Große Küche,8010,Avg Time to Accept (s),462.0,478.0,deliverando
+Kleine Brauerei,8010,# Commissionable Orders,2508.0,2038.0,deliverando
+Kleine Brauerei,8010,Avg Basket Size €,21.26,21.85,deliverando
+Kleine Brauerei,8010,# Negative Comments,12.0,9.0,deliverando
+Kleine Brauerei,8010,# Positive Comments,1.0,1.0,deliverando
+Kleine Brauerei,8010,% Kill Rate,31.0,36.0,deliverando
+Kleine Brauerei,8010,Avg Time to Accept (s),444.0,640.0,deliverando
+Kleine Brauerei,8010,# Commissionable Orders,1044.0,977.0,deliverando
+Kleine Brauerei,8010,Avg Basket Size €,21.76,22.79,deliverando
+Kleine Brauerei,8010,# Negative Comments,11.0,7.0,deliverando
+Kleine Brauerei,8010,# Positive Comments,1.0,1.0,deliverando
+Kleine Brauerei,8010,% Kill Rate,61.0,0.06,deliverando
+Kleine Brauerei,8010,Avg Time to Accept (s),581.0,730.0,deliverando
+Kleine Brauerei,8020,# Commissionable Orders,551.0,458.0,deliverando
+Kleine Brauerei,8020,Avg Basket Size €,22.58,23.69,deliverando
+Kleine Brauerei,8020,# Negative Comments,6.0,3.0,deliverando
+Kleine Brauerei,8020,# Positive Comments,1.0,1.0,deliverando
+Kleine Brauerei,8020,% Kill Rate,49.0,0.05,deliverando
+Kleine Brauerei,8020,Avg Time to Accept (s),627.0,905.0,deliverando
+Kleine Brauerei,8020,# Commissionable Orders,1226.0,1023.0,deliverando
+Kleine Brauerei,8020,Avg Basket Size €,21.96,21.88,deliverando
+Kleine Brauerei,8020,# Negative Comments,7.0,2.0,deliverando
+Kleine Brauerei,8020,# Positive Comments,1.0,1.0,deliverando
+Kleine Brauerei,8020,% Kill Rate,37.0,39.0,deliverando
+Kleine Brauerei,8020,Avg Time to Accept (s),511.0,629.0,deliverando
+Herzliche Zimmer,8010,# Commissionable Orders,3.0,38.0,deliverando
+Herzliche Zimmer,8010,Avg Basket Size €,23.23,19.74,deliverando
+Herzliche Zimmer,8010,# Negative Comments,0.0,1.0,deliverando
+Herzliche Zimmer,8010,# Positive Comments,0.0,1.0,deliverando
+Herzliche Zimmer,8010,% Kill Rate,97.0,78.0,deliverando
+Herzliche Zimmer,8010,Avg Time to Accept (s),359.0,546.0,deliverando
+Wiener Waldhaus,8010,# Commissionable Orders,22.0,24.0,deliverando
+Wiener Waldhaus,8010,Avg Basket Size €,30.91,30.16,deliverando
+Wiener Waldhaus,8010,# Negative Comments,0.0,0.0,deliverando
+Wiener Waldhaus,8010,# Positive Comments,1.0,1.0,deliverando
+Wiener Waldhaus,8010,% Kill Rate,163.0,0.14,deliverando
+Wiener Waldhaus,8010,Avg Time to Accept (s),12.0,14.0,deliverando
+Quaint Heuriger,8010,# Commissionable Orders,260.0,241.0,deliverando
+Quaint Heuriger,8010,Avg Basket Size €,19.42,18.61,deliverando
+Quaint Heuriger,8010,# Negative Comments,2.0,3.0,deliverando
+Quaint Heuriger,8010,# Positive Comments,1.0,1.0,deliverando
+Quaint Heuriger,8010,% Kill Rate,0.09,96.0,deliverando
+Quaint Heuriger,8010,Avg Time to Accept (s),19.0,25.0,deliverando
+Silberne Hideaway,8020,# Commissionable Orders,15.0,11.0,deliverando
+Silberne Hideaway,8020,Avg Basket Size €,17.84,18.5,deliverando
+Silberne Hideaway,8020,# Negative Comments,0.0,0.0,deliverando
+Silberne Hideaway,8020,# Positive Comments,0.0,0.0,deliverando
+Silberne Hideaway,8020,Avg Time to Accept (s),372.0,283.0,deliverando
+Verzauberte Schänke,8020,# Commissionable Orders,993.0,953.0,deliverando
+Verzauberte Schänke,8020,Avg Basket Size €,19.81,20.52,deliverando
+Verzauberte Schänke,8020,# Negative Comments,11.0,8.0,deliverando
+Verzauberte Schänke,8020,# Positive Comments,1.0,1.0,deliverando
+Verzauberte Schänke,8020,% Kill Rate,0.1,95.0,deliverando
+Verzauberte Schänke,8020,Avg Time to Accept (s),16.0,16.0,deliverando
+Köstliche Ginmill,8010,# Commissionable Orders,0.0,0.0,deliverando
+Köstliche Ginmill,8010,# Negative Comments,0.0,0.0,deliverando
+Köstliche Ginmill,8010,# Positive Comments,0.0,0.0,deliverando
+Bäuerliche Festscheune,8010,# Commissionable Orders,152.0,116.0,deliverando
+Bäuerliche Festscheune,8010,Avg Basket Size €,27.63,28.11,deliverando
+Bäuerliche Festscheune,8010,# Negative Comments,2.0,2.0,deliverando
+Bäuerliche Festscheune,8010,# Positive Comments,1.0,1.0,deliverando
+Bäuerliche Festscheune,8010,% Kill Rate,84.0,75.0,deliverando
+Bäuerliche Festscheune,8010,Avg Time to Accept (s),12.0,14.0,deliverando
+Edle Waldhaus,8020,# Commissionable Orders,59.0,131.0,deliverando
+Edle Waldhaus,8020,Avg Basket Size €,21.86,22.15,deliverando
+Edle Waldhaus,8020,# Negative Comments,1.0,0.0,deliverando
+Edle Waldhaus,8020,# Positive Comments,1.0,1.0,deliverando
+Edle Waldhaus,8020,Avg Time to Accept (s),381.0,433.0,deliverando
+Opulent Alm,8010,# Commissionable Orders,481.0,405.0,deliverando
+Opulent Alm,8010,Avg Basket Size €,30.43,31.57,deliverando
+Opulent Alm,8010,# Negative Comments,1.0,1.0,deliverando
+Opulent Alm,8010,# Positive Comments,1.0,1.0,deliverando
+Opulent Alm,8010,% Kill Rate,107.0,105.0,deliverando
+Opulent Alm,8010,Avg Time to Accept (s),499.0,600.0,deliverando
+Romantische Almhütte,8010,# Commissionable Orders,1017.0,840.0,deliverando
+Romantische Almhütte,8010,Avg Basket Size €,25.76,25.97,deliverando
+Romantische Almhütte,8010,# Negative Comments,7.0,5.0,deliverando
+Romantische Almhütte,8010,# Positive Comments,1.0,1.0,deliverando
+Romantische Almhütte,8010,% Kill Rate,98.0,101.0,deliverando
+Romantische Almhütte,8010,Avg Time to Accept (s),263.0,264.0,deliverando
+Herbstliche Schmankerl,8010,# Commissionable Orders,109.0,72.0,deliverando
+Herbstliche Schmankerl,8010,Avg Basket Size €,23.24,23.8,deliverando
+Herbstliche Schmankerl,8010,# Negative Comments,1.0,0.0,deliverando
+Herbstliche Schmankerl,8010,# Positive Comments,1.0,1.0,deliverando
+Herbstliche Schmankerl,8010,% Kill Rate,36.0,39.0,deliverando
+Herbstliche Schmankerl,8010,Avg Time to Accept (s),16.0,15.0,deliverando
+Sonnen Tanzschuppen,8010,# Commissionable Orders,0.0,14.0,deliverando
+Sonnen Tanzschuppen,8010,# Negative Comments,0.0,0.0,deliverando
+Sonnen Tanzschuppen,8010,# Positive Comments,0.0,1.0,deliverando
+Sonnen Tanzschuppen,8010,% Kill Rate,16.0,25.0,deliverando
+Königliche Schanke,8020,# Commissionable Orders,84.0,116.0,deliverando
+Königliche Schanke,8020,Avg Basket Size €,16.74,17.29,deliverando
+Königliche Schanke,8020,# Negative Comments,0.0,1.0,deliverando
+Königliche Schanke,8020,# Positive Comments,0.0,1.0,deliverando
+Königliche Schanke,8020,% Kill Rate,113.0,102.0,deliverando
+Königliche Schanke,8020,Avg Time to Accept (s),18.0,16.0,deliverando
+Schloss Alm,8055,# Commissionable Orders,275.0,193.0,deliverando
+Schloss Alm,8055,Avg Basket Size €,22.0,22.62,deliverando
+Schloss Alm,8055,# Negative Comments,3.0,0.0,deliverando
+Schloss Alm,8055,# Positive Comments,1.0,1.0,deliverando
+Schloss Alm,8055,% Kill Rate,0.06,0.06,deliverando
+Schloss Alm,8055,Avg Time to Accept (s),15.0,15.0,deliverando
+Grüne Kellerstüberl,8041,# Commissionable Orders,0.0,0.0,deliverando
+Grüne Kellerstüberl,8041,# Negative Comments,0.0,0.0,deliverando
+Grüne Kellerstüberl,8041,# Positive Comments,0.0,0.0,deliverando
+Grüne Kellerstüberl,8041,% Kill Rate,106.0,75.0,deliverando
+Glänzende Ecke,8010,# Commissionable Orders,0.0,0.0,deliverando
+Glänzende Ecke,8010,# Negative Comments,0.0,0.0,deliverando
+Glänzende Ecke,8010,# Positive Comments,0.0,0.0,deliverando
+Ländliche Stüberl,8010,# Commissionable Orders,0.0,0.0,deliverando
+Ländliche Stüberl,8010,# Negative Comments,0.0,0.0,deliverando
+Ländliche Stüberl,8010,# Positive Comments,0.0,0.0,deliverando
+Schloss Pinte,8020,# Commissionable Orders,1244.0,1057.0,deliverando
+Schloss Pinte,8020,Avg Basket Size €,16.03,16.68,deliverando
+Schloss Pinte,8020,# Negative Comments,13.0,10.0,deliverando
+Schloss Pinte,8020,# Positive Comments,1.0,1.0,deliverando
+Schloss Pinte,8020,% Kill Rate,49.0,46.0,deliverando
+Schloss Pinte,8020,Avg Time to Accept (s),305.0,300.0,deliverando
+Pittoreske Stüberl,8020,# Commissionable Orders,90.0,98.0,deliverando
+Pittoreske Stüberl,8020,Avg Basket Size €,20.81,20.19,deliverando
+Pittoreske Stüberl,8020,# Negative Comments,0.0,0.0,deliverando
+Pittoreske Stüberl,8020,# Positive Comments,1.0,1.0,deliverando
+Pittoreske Stüberl,8020,% Kill Rate,77.0,65.0,deliverando
+Pittoreske Stüberl,8020,Avg Time to Accept (s),10.0,11.0,deliverando
+Roter Stüberl,8020,# Commissionable Orders,236.0,181.0,deliverando
+Roter Stüberl,8020,Avg Basket Size €,17.64,18.31,deliverando
+Roter Stüberl,8020,# Negative Comments,0.0,1.0,deliverando
+Roter Stüberl,8020,# Positive Comments,1.0,1.0,deliverando
+Roter Stüberl,8020,% Kill Rate,19.0,26.0,deliverando
+Roter Stüberl,8020,Avg Time to Accept (s),445.0,506.0,deliverando
+Fischer Hideaway,8020,# Commissionable Orders,0.0,0.0,deliverando
+Fischer Hideaway,8020,# Negative Comments,0.0,0.0,deliverando
+Fischer Hideaway,8020,# Positive Comments,0.0,0.0,deliverando
+Alpine Blick,8010,# Commissionable Orders,199.0,191.0,deliverando
+Alpine Blick,8010,Avg Basket Size €,12.8,12.93,deliverando
+Alpine Blick,8010,# Negative Comments,0.0,4.0,deliverando
+Alpine Blick,8010,# Positive Comments,1.0,1.0,deliverando
+Alpine Blick,8010,% Kill Rate,35.0,38.0,deliverando
+Alpine Blick,8010,Avg Time to Accept (s),441.0,518.0,deliverando
+Kaiser Scheune,8010,# Commissionable Orders,261.0,267.0,deliverando
+Kaiser Scheune,8010,Avg Basket Size €,27.7,27.52,deliverando
+Kaiser Scheune,8010,# Negative Comments,4.0,3.0,deliverando
+Kaiser Scheune,8010,# Positive Comments,1.0,1.0,deliverando
+Kaiser Scheune,8010,% Kill Rate,144.0,142.0,deliverando
+Kaiser Scheune,8010,Avg Time to Accept (s),447.0,454.0,deliverando
+Idyllische Tenne,8010,# Commissionable Orders,35.0,19.0,deliverando
+Idyllische Tenne,8010,Avg Basket Size €,15.73,17.08,deliverando
+Idyllische Tenne,8010,# Negative Comments,0.0,0.0,deliverando
+Idyllische Tenne,8010,# Positive Comments,1.0,1.0,deliverando
+Idyllische Tenne,8010,% Kill Rate,58.0,54.0,deliverando
+Idyllische Tenne,8010,Avg Time to Accept (s),575.0,840.0,deliverando
+Bunte Lokal,8010,# Commissionable Orders,78.0,69.0,deliverando
+Bunte Lokal,8010,Avg Basket Size €,15.18,14.4,deliverando
+Bunte Lokal,8010,# Negative Comments,0.0,0.0,deliverando
+Bunte Lokal,8010,# Positive Comments,1.0,1.0,deliverando
+Bunte Lokal,8010,% Kill Rate,0.07,71.0,deliverando
+Bunte Lokal,8010,Avg Time to Accept (s),462.0,512.0,deliverando
+Ehrwürdige Schmankerl,8010,# Commissionable Orders,22.0,3.0,deliverando
+Ehrwürdige Schmankerl,8010,# Negative Comments,1.0,0.0,deliverando
+Ehrwürdige Schmankerl,8010,# Positive Comments,1.0,0.0,deliverando
+Ehrwürdige Schmankerl,8010,% Kill Rate,0.03,24.0,deliverando
+Roter Stüberl,8010,# Commissionable Orders,19.0,91.0,deliverando
+Roter Stüberl,8010,Avg Basket Size €,18.78,18.45,deliverando
+Roter Stüberl,8010,# Negative Comments,0.0,0.0,deliverando
+Roter Stüberl,8010,# Positive Comments,0.0,1.0,deliverando
+Roter Stüberl,8010,% Kill Rate,45.0,34.0,deliverando
+Roter Stüberl,8010,Avg Time to Accept (s),17.0,610.0,deliverando
+Ländliche Wirt,8010,# Commissionable Orders,16.0,10.0,deliverando
+Ländliche Wirt,8010,Avg Basket Size €,16.94,21.01,deliverando
+Ländliche Wirt,8010,# Negative Comments,0.0,0.0,deliverando
+Ländliche Wirt,8010,# Positive Comments,1.0,0.0,deliverando
+Ländliche Wirt,8010,Avg Time to Accept (s),669.0,563.0,deliverando
+Roter Schlösschen,8010,# Commissionable Orders,0.0,0.0,deliverando
+Roter Schlösschen,8010,# Negative Comments,0.0,0.0,deliverando
+Roter Schlösschen,8010,# Positive Comments,0.0,0.0,deliverando
+Stille Gastzimmer,8020,# Commissionable Orders,87.0,52.0,deliverando
+Stille Gastzimmer,8020,Avg Basket Size €,9.23,10.9,deliverando
+Stille Gastzimmer,8020,# Negative Comments,0.0,0.0,deliverando
+Stille Gastzimmer,8020,# Positive Comments,1.0,1.0,deliverando
+Stille Gastzimmer,8020,% Kill Rate,18.0,27.0,deliverando
+Stille Gastzimmer,8020,Avg Time to Accept (s),465.0,422.0,deliverando
+Gasthof Weinkeller,8010,# Commissionable Orders,2.0,6.0,deliverando
+Gasthof Weinkeller,8010,Avg Basket Size €,11.9,18.77,deliverando
+Gasthof Weinkeller,8010,# Negative Comments,0.0,0.0,deliverando
+Gasthof Weinkeller,8010,# Positive Comments,0.0,1.0,deliverando
+Gasthof Weinkeller,8010,% Kill Rate,82.0,69.0,deliverando
+Gasthof Weinkeller,8010,Avg Time to Accept (s),376.0,373.0,deliverando
+Große Burg,8010,# Commissionable Orders,72.0,144.0,deliverando
+Große Burg,8010,Avg Basket Size €,16.0,13.69,deliverando
+Große Burg,8010,# Negative Comments,0.0,0.0,deliverando
+Große Burg,8010,# Positive Comments,1.0,1.0,deliverando
+Große Burg,8010,% Kill Rate,72.0,58.0,deliverando
+Große Burg,8010,Avg Time to Accept (s),362.0,463.0,deliverando
+Weinstube See,8010,# Commissionable Orders,99.0,158.0,deliverando
+Weinstube See,8010,Avg Basket Size €,16.37,15.56,deliverando
+Weinstube See,8010,# Negative Comments,2.0,0.0,deliverando
+Weinstube See,8010,# Positive Comments,1.0,1.0,deliverando
+Weinstube See,8010,% Kill Rate,65.0,63.0,deliverando
+Weinstube See,8010,Avg Time to Accept (s),450.0,423.0,deliverando
+Blumen Burg,8010,# Commissionable Orders,56.0,64.0,deliverando
+Blumen Burg,8010,Avg Basket Size €,17.8,15.7,deliverando
+Blumen Burg,8010,# Negative Comments,0.0,2.0,deliverando
+Blumen Burg,8010,# Positive Comments,1.0,1.0,deliverando
+Blumen Burg,8010,% Kill Rate,93.0,87.0,deliverando
+Blumen Burg,8010,Avg Time to Accept (s),444.0,449.0,deliverando
+Holz Küche,8010,# Commissionable Orders,117.0,131.0,deliverando
+Holz Küche,8010,Avg Basket Size €,26.63,25.08,deliverando
+Holz Küche,8010,# Negative Comments,0.0,0.0,deliverando
+Holz Küche,8010,# Positive Comments,1.0,1.0,deliverando
+Holz Küche,8010,% Kill Rate,118.0,109.0,deliverando
+Holz Küche,8010,Avg Time to Accept (s),424.0,503.0,deliverando
+Blumen Gourmet,8020,# Commissionable Orders,7.0,8.0,deliverando
+Blumen Gourmet,8020,Avg Basket Size €,16.84,16.09,deliverando
+Blumen Gourmet,8020,# Negative Comments,0.0,0.0,deliverando
+Blumen Gourmet,8020,# Positive Comments,1.0,1.0,deliverando
+Blumen Gourmet,8020,% Kill Rate,135.0,64.0,deliverando
+Blumen Gourmet,8020,Avg Time to Accept (s),458.0,334.0,deliverando
+Silberne Felsenkeller,8010,# Commissionable Orders,9.0,8.0,deliverando
+Silberne Felsenkeller,8010,Avg Basket Size €,17.46,18.74,deliverando
+Silberne Felsenkeller,8010,# Negative Comments,1.0,0.0,deliverando
+Silberne Felsenkeller,8010,# Positive Comments,0.0,1.0,deliverando
+Silberne Felsenkeller,8010,Avg Time to Accept (s),613.0,380.0,deliverando
+Kleine Brauerei,8054,# Commissionable Orders,1010.0,903.0,deliverando
+Kleine Brauerei,8054,Avg Basket Size €,23.97,23.81,deliverando
+Kleine Brauerei,8054,# Negative Comments,7.0,7.0,deliverando
+Kleine Brauerei,8054,# Positive Comments,1.0,1.0,deliverando
+Kleine Brauerei,8054,% Kill Rate,55.0,58.0,deliverando
+Kleine Brauerei,8054,Avg Time to Accept (s),500.0,501.0,deliverando
+Wolkenkratzer Weinbar,8010,# Commissionable Orders,7.0,8.0,deliverando
+Wolkenkratzer Weinbar,8010,Avg Basket Size €,14.98,32.23,deliverando
+Wolkenkratzer Weinbar,8010,# Negative Comments,0.0,0.0,deliverando
+Wolkenkratzer Weinbar,8010,# Positive Comments,0.0,0.0,deliverando
+Wolkenkratzer Weinbar,8010,% Kill Rate,91.0,154.0,deliverando
+Wolkenkratzer Weinbar,8010,Avg Time to Accept (s),915.0,633.0,deliverando
+Wirtshaus Ratskeller,8020,# Commissionable Orders,39.0,38.0,deliverando
+Wirtshaus Ratskeller,8020,Avg Basket Size €,27.24,28.08,deliverando
+Wirtshaus Ratskeller,8020,# Negative Comments,0.0,1.0,deliverando
+Wirtshaus Ratskeller,8020,# Positive Comments,1.0,1.0,deliverando
+Wirtshaus Ratskeller,8020,% Kill Rate,125.0,143.0,deliverando
+Wirtshaus Ratskeller,8020,Avg Time to Accept (s),476.0,511.0,deliverando
+Ruhige Soda fountain,8041,# Commissionable Orders,14.0,10.0,deliverando
+Ruhige Soda fountain,8041,Avg Basket Size €,38.3,28.3,deliverando
+Ruhige Soda fountain,8041,# Negative Comments,0.0,0.0,deliverando
+Ruhige Soda fountain,8041,# Positive Comments,1.0,1.0,deliverando
+Ruhige Soda fountain,8041,% Kill Rate,0.1,125.0,deliverando
+Ruhige Soda fountain,8041,Avg Time to Accept (s),1951.0,877.0,deliverando
+Ruhige Soda fountain,8055,# Commissionable Orders,1.0,5.0,deliverando
+Ruhige Soda fountain,8055,# Negative Comments,0.0,0.0,deliverando
+Ruhige Soda fountain,8055,# Positive Comments,0.0,0.0,deliverando
+Ruhige Soda fountain,8055,# Commissionable Orders,14.0,13.0,deliverando
+Ruhige Soda fountain,8055,# Negative Comments,0.0,0.0,deliverando
+Ruhige Soda fountain,8055,# Positive Comments,0.0,0.0,deliverando
+Ruhige Soda fountain,8055,% Kill Rate,163.0,178.0,deliverando
+Stille Kneipe,8054,# Commissionable Orders,0.0,13.0,deliverando
+Stille Kneipe,8054,# Negative Comments,0.0,0.0,deliverando
+Stille Kneipe,8054,# Positive Comments,0.0,0.0,deliverando
+Stille Kneipe,8054,% Kill Rate,217.0,207.0,deliverando
+Stille Kneipe,8055,# Commissionable Orders,1.0,7.0,deliverando
+Stille Kneipe,8055,# Negative Comments,0.0,0.0,deliverando
+Stille Kneipe,8055,# Positive Comments,0.0,0.0,deliverando
+Goldene Wirtshaus,8054,# Commissionable Orders,0.0,0.0,deliverando
+Goldene Wirtshaus,8054,# Negative Comments,0.0,0.0,deliverando
+Goldene Wirtshaus,8054,# Positive Comments,0.0,0.0,deliverando
+Große Schenke,8041,# Commissionable Orders,99.0,67.0,deliverando
+Große Schenke,8041,Avg Basket Size €,20.69,19.6,deliverando
+Große Schenke,8041,# Negative Comments,0.0,0.0,deliverando
+Große Schenke,8041,# Positive Comments,1.0,1.0,deliverando
+Große Schenke,8041,% Kill Rate,99.0,86.0,deliverando
+Große Schenke,8041,Avg Time to Accept (s),30.0,21.0,deliverando
+Holz Kneipenlokal,8020,# Commissionable Orders,5.0,11.0,deliverando
+Holz Kneipenlokal,8020,Avg Basket Size €,15.64,14.03,deliverando
+Holz Kneipenlokal,8020,# Negative Comments,0.0,0.0,deliverando
+Holz Kneipenlokal,8020,# Positive Comments,1.0,0.0,deliverando
+Holz Kneipenlokal,8020,% Kill Rate,0.05,48.0,deliverando
+Holz Kneipenlokal,8020,Avg Time to Accept (s),735.0,145.0,deliverando
+Fröhliche Taverna,8010,# Commissionable Orders,853.0,727.0,deliverando
+Fröhliche Taverna,8010,Avg Basket Size €,26.06,25.9,deliverando
+Fröhliche Taverna,8010,# Negative Comments,0.0,0.0,deliverando
+Fröhliche Taverna,8010,# Positive Comments,1.0,1.0,deliverando
+Fröhliche Taverna,8010,% Kill Rate,93.0,0.09,deliverando
+Fröhliche Taverna,8010,Avg Time to Accept (s),17.0,14.0,deliverando
+Scharfe Jausenstation,8010,# Commissionable Orders,32.0,11.0,deliverando
+Scharfe Jausenstation,8010,Avg Basket Size €,25.02,24.87,deliverando
+Scharfe Jausenstation,8010,# Negative Comments,0.0,0.0,deliverando
+Scharfe Jausenstation,8010,# Positive Comments,1.0,1.0,deliverando
+Scharfe Jausenstation,8010,% Kill Rate,83.0,58.0,deliverando
+Scharfe Jausenstation,8010,Avg Time to Accept (s),316.0,447.0,deliverando
+Goldene Stube,8010,# Commissionable Orders,0.0,0.0,deliverando
+Goldene Stube,8010,# Negative Comments,0.0,0.0,deliverando
+Goldene Stube,8010,# Positive Comments,0.0,0.0,deliverando
+Neue Mühle,8010,# Commissionable Orders,0.0,0.0,deliverando
+Neue Mühle,8010,# Negative Comments,0.0,0.0,deliverando
+Neue Mühle,8010,# Positive Comments,0.0,0.0,deliverando
+Gute Brauhaus,8055,# Commissionable Orders,0.0,9.0,deliverando
+Gute Brauhaus,8055,# Negative Comments,0.0,0.0,deliverando
+Gute Brauhaus,8055,# Positive Comments,0.0,0.0,deliverando
+Gute Brauhaus,8055,% Kill Rate,76.0,93.0,deliverando
+Grüne Weinbistro,8052,# Commissionable Orders,5.0,27.0,deliverando
+Grüne Weinbistro,8052,Avg Basket Size €,17.72,27.82,deliverando
+Grüne Weinbistro,8052,# Negative Comments,0.0,0.0,deliverando
+Grüne Weinbistro,8052,# Positive Comments,0.0,1.0,deliverando
+Grüne Weinbistro,8052,% Kill Rate,91.0,84.0,deliverando
+Grüne Weinbistro,8052,Avg Time to Accept (s),1333.0,361.0,deliverando
+Gebackene Waldhaus,8010,# Commissionable Orders,0.0,0.0,deliverando
+Gebackene Waldhaus,8010,# Negative Comments,0.0,0.0,deliverando
+Gebackene Waldhaus,8010,# Positive Comments,0.0,0.0,deliverando
+Gebackene Waldhaus,8010,% Kill Rate,56.0,74.0,deliverando
+Rote Hofladen,8010,# Commissionable Orders,0.0,0.0,deliverando
+Rote Hofladen,8010,# Negative Comments,0.0,0.0,deliverando
+Rote Hofladen,8010,# Positive Comments,0.0,0.0,deliverando
+Legendary Wirt,8010,# Commissionable Orders,0.0,0.0,deliverando
+Legendary Wirt,8010,# Negative Comments,0.0,0.0,deliverando
+Legendary Wirt,8010,# Positive Comments,0.0,0.0,deliverando
+Legendary Wirt,8010,% Kill Rate,48.0,55.0,deliverando
+Roter Stüberl,8020,# Commissionable Orders,24.0,0.0,deliverando
+Roter Stüberl,8020,# Negative Comments,0.0,0.0,deliverando
+Roter Stüberl,8020,# Positive Comments,1.0,0.0,deliverando
+Roter Stüberl,8020,% Kill Rate,53.0,48.0,deliverando
+Roter Stüberl,8055,# Commissionable Orders,5.0,73.0,deliverando
+Roter Stüberl,8055,Avg Basket Size €,14.38,19.67,deliverando
+Roter Stüberl,8055,# Negative Comments,0.0,0.0,deliverando
+Roter Stüberl,8055,# Positive Comments,0.0,1.0,deliverando
+Roter Stüberl,8055,% Kill Rate,76.0,89.0,deliverando
+Roter Stüberl,8055,Avg Time to Accept (s),16.0,265.0,deliverando
+Blaue Rebgarten,8020,# Commissionable Orders,2.0,4.0,deliverando
+Blaue Rebgarten,8020,Avg Basket Size €,31.5,17.5,deliverando
+Blaue Rebgarten,8020,# Negative Comments,0.0,0.0,deliverando
+Blaue Rebgarten,8020,# Positive Comments,0.0,0.0,deliverando
+Blaue Rebgarten,8020,Avg Time to Accept (s),36.0,37.0,deliverando
+Mühle Stüberl,8020,# Commissionable Orders,0.0,0.0,deliverando
+Mühle Stüberl,8020,# Negative Comments,0.0,0.0,deliverando
+Mühle Stüberl,8020,# Positive Comments,0.0,0.0,deliverando
+Rasante Wirtshaus,8055,# Commissionable Orders,0.0,0.0,deliverando
+Rasante Wirtshaus,8055,# Negative Comments,0.0,0.0,deliverando
+Rasante Wirtshaus,8055,# Positive Comments,0.0,0.0,deliverando
+Gasthof Weinlokal,8010,# Commissionable Orders,48.0,39.0,deliverando
+Gasthof Weinlokal,8010,Avg Basket Size €,13.53,14.96,deliverando
+Gasthof Weinlokal,8010,# Negative Comments,0.0,1.0,deliverando
+Gasthof Weinlokal,8010,# Positive Comments,1.0,1.0,deliverando
+Gasthof Weinlokal,8010,% Kill Rate,138.0,125.0,deliverando
+Gasthof Weinlokal,8010,Avg Time to Accept (s),246.0,18.0,deliverando
+Erfahrene Heuriger,8010,# Commissionable Orders,24.0,12.0,deliverando
+Erfahrene Heuriger,8010,Avg Basket Size €,15.38,14.19,deliverando
+Erfahrene Heuriger,8010,# Negative Comments,0.0,0.0,deliverando
+Erfahrene Heuriger,8010,# Positive Comments,0.0,0.0,deliverando
+Erfahrene Heuriger,8010,% Kill Rate,69.0,39.0,deliverando
+Erfahrene Heuriger,8010,Avg Time to Accept (s),274.0,571.0,deliverando
+Blumen Grillplatz,8054,# Commissionable Orders,17.0,19.0,deliverando
+Blumen Grillplatz,8054,Avg Basket Size €,24.36,30.31,deliverando
+Blumen Grillplatz,8054,# Negative Comments,0.0,0.0,deliverando
+Blumen Grillplatz,8054,# Positive Comments,1.0,1.0,deliverando
+Blumen Grillplatz,8054,% Kill Rate,77.0,0.07,deliverando
+Blumen Grillplatz,8054,Avg Time to Accept (s),486.0,409.0,deliverando
+Alpine Heuriger,8020,# Commissionable Orders,9.0,25.0,deliverando
+Alpine Heuriger,8020,Avg Basket Size €,21.92,14.76,deliverando
+Alpine Heuriger,8020,# Negative Comments,0.0,0.0,deliverando
+Alpine Heuriger,8020,# Positive Comments,1.0,1.0,deliverando
+Alpine Heuriger,8020,% Kill Rate,44.0,23.0,deliverando
+Alpine Heuriger,8020,Avg Time to Accept (s),515.0,440.0,deliverando
+Weinstube Küche,8010,# Commissionable Orders,5.0,2.0,deliverando
+Weinstube Küche,8010,# Negative Comments,0.0,0.0,deliverando
+Weinstube Küche,8010,# Positive Comments,0.0,0.0,deliverando
+Weinstube Küche,8010,% Kill Rate,227.0,231.0,deliverando
+Pittoreske Ort,8010,# Commissionable Orders,355.0,185.0,deliverando
+Pittoreske Ort,8010,Avg Basket Size €,19.63,20.35,deliverando
+Pittoreske Ort,8010,# Negative Comments,2.0,1.0,deliverando
+Pittoreske Ort,8010,# Positive Comments,1.0,1.0,deliverando
+Pittoreske Ort,8010,% Kill Rate,89.0,72.0,deliverando
+Pittoreske Ort,8010,Avg Time to Accept (s),16.0,16.0,deliverando
+Alpine Gourmet,8054,# Commissionable Orders,55.0,58.0,deliverando
+Alpine Gourmet,8054,Avg Basket Size €,19.46,22.11,deliverando
+Alpine Gourmet,8054,# Negative Comments,1.0,0.0,deliverando
+Alpine Gourmet,8054,# Positive Comments,0.0,1.0,deliverando
+Alpine Gourmet,8054,% Kill Rate,158.0,132.0,deliverando
+Alpine Gourmet,8054,Avg Time to Accept (s),34.0,25.0,deliverando
+Sonnige Brauerei,8010,# Commissionable Orders,66.0,35.0,deliverando
+Sonnige Brauerei,8010,Avg Basket Size €,10.82,10.51,deliverando
+Sonnige Brauerei,8010,# Negative Comments,0.0,0.0,deliverando
+Sonnige Brauerei,8010,# Positive Comments,0.0,1.0,deliverando
+Sonnige Brauerei,8010,% Kill Rate,0.06,53.0,deliverando
+Sonnige Brauerei,8010,Avg Time to Accept (s),484.0,550.0,deliverando
+Bäuerliche Waldhaus,8041,# Commissionable Orders,51.0,41.0,deliverando
+Bäuerliche Waldhaus,8041,Avg Basket Size €,24.56,23.34,deliverando
+Bäuerliche Waldhaus,8041,# Negative Comments,1.0,0.0,deliverando
+Bäuerliche Waldhaus,8041,# Positive Comments,1.0,1.0,deliverando
+Bäuerliche Waldhaus,8041,% Kill Rate,148.0,0.15,deliverando
+Bäuerliche Waldhaus,8041,Avg Time to Accept (s),885.0,1051.0,deliverando
+Alpine Schanze,8010,# Commissionable Orders,75.0,62.0,deliverando
+Alpine Schanze,8010,Avg Basket Size €,11.43,10.62,deliverando
+Alpine Schanze,8010,# Negative Comments,0.0,1.0,deliverando
+Alpine Schanze,8010,# Positive Comments,1.0,1.0,deliverando
+Alpine Schanze,8010,% Kill Rate,42.0,64.0,deliverando
+Alpine Schanze,8010,Avg Time to Accept (s),426.0,563.0,deliverando
+Sonnige Almhütte,8010,# Commissionable Orders,0.0,0.0,deliverando
+Sonnige Almhütte,8010,# Negative Comments,0.0,0.0,deliverando
+Sonnige Almhütte,8010,# Positive Comments,0.0,0.0,deliverando
+Königliche Hof,8010,# Commissionable Orders,13.0,2.0,deliverando
+Königliche Hof,8010,Avg Basket Size €,13.42,8.75,deliverando
+Königliche Hof,8010,# Negative Comments,0.0,0.0,deliverando
+Königliche Hof,8010,# Positive Comments,1.0,0.0,deliverando
+Königliche Hof,8010,% Kill Rate,29.0,25.0,deliverando
+Königliche Hof,8010,Avg Time to Accept (s),492.0,398.0,deliverando
+Bergdorf Stuben,8010,# Commissionable Orders,5.0,0.0,deliverando
+Bergdorf Stuben,8010,# Negative Comments,0.0,0.0,deliverando
+Bergdorf Stuben,8010,# Positive Comments,0.0,0.0,deliverando
+Bergdorf Stuben,8010,% Kill Rate,25.0,26.0,deliverando
+Gemütliche Taverne,8010,# Commissionable Orders,192.0,109.0,deliverando
+Gemütliche Taverne,8010,Avg Basket Size €,31.83,31.1,deliverando
+Gemütliche Taverne,8010,# Negative Comments,0.0,0.0,deliverando
+Gemütliche Taverne,8010,# Positive Comments,1.0,1.0,deliverando
+Gemütliche Taverne,8010,% Kill Rate,93.0,91.0,deliverando
+Gemütliche Taverne,8010,Avg Time to Accept (s),201.0,207.0,deliverando
+Exotische Ginmill,8010,# Commissionable Orders,160.0,112.0,deliverando
+Exotische Ginmill,8010,Avg Basket Size €,23.22,24.05,deliverando
+Exotische Ginmill,8010,# Negative Comments,1.0,0.0,deliverando
+Exotische Ginmill,8010,# Positive Comments,1.0,1.0,deliverando
+Exotische Ginmill,8010,% Kill Rate,103.0,101.0,deliverando
+Exotische Ginmill,8010,Avg Time to Accept (s),562.0,648.0,deliverando
+Einsame Wirtshaus,8055,# Commissionable Orders,0.0,0.0,deliverando
+Einsame Wirtshaus,8055,# Negative Comments,0.0,0.0,deliverando
+Einsame Wirtshaus,8055,# Positive Comments,0.0,0.0,deliverando
+Bunte Schänke,8020,# Commissionable Orders,720.0,1026.0,deliverando
+Bunte Schänke,8020,Avg Basket Size €,26.84,27.36,deliverando
+Bunte Schänke,8020,# Negative Comments,1.0,1.0,deliverando
+Bunte Schänke,8020,# Positive Comments,1.0,1.0,deliverando
+Bunte Schänke,8020,% Kill Rate,102.0,91.0,deliverando
+Bunte Schänke,8020,Avg Time to Accept (s),16.0,12.0,deliverando
+Legendary Bodega,8010,# Commissionable Orders,1010.0,1067.0,deliverando
+Legendary Bodega,8010,Avg Basket Size €,21.69,23.01,deliverando
+Legendary Bodega,8010,# Negative Comments,10.0,10.0,deliverando
+Legendary Bodega,8010,# Positive Comments,1.0,1.0,deliverando
+Legendary Bodega,8010,% Kill Rate,0.11,103.0,deliverando
+Legendary Bodega,8010,Avg Time to Accept (s),17.0,18.0,deliverando
+Edelweiß Schlemmerparadies,8010,# Commissionable Orders,50.0,35.0,deliverando
+Edelweiß Schlemmerparadies,8010,Avg Basket Size €,15.8,15.71,deliverando
+Edelweiß Schlemmerparadies,8010,# Negative Comments,0.0,0.0,deliverando
+Edelweiß Schlemmerparadies,8010,# Positive Comments,1.0,1.0,deliverando
+Edelweiß Schlemmerparadies,8010,% Kill Rate,56.0,56.0,deliverando
+Edelweiß Schlemmerparadies,8010,Avg Time to Accept (s),297.0,314.0,deliverando
+Glanzvolle Weinbistro,8020,# Commissionable Orders,98.0,74.0,deliverando
+Glanzvolle Weinbistro,8020,Avg Basket Size €,24.21,26.79,deliverando
+Glanzvolle Weinbistro,8020,# Negative Comments,0.0,0.0,deliverando
+Glanzvolle Weinbistro,8020,# Positive Comments,1.0,1.0,deliverando
+Glanzvolle Weinbistro,8020,% Kill Rate,108.0,101.0,deliverando
+Glanzvolle Weinbistro,8020,Avg Time to Accept (s),427.0,460.0,deliverando
+Festliche Speiselokal,8010,# Commissionable Orders,13.0,12.0,deliverando
+Festliche Speiselokal,8010,Avg Basket Size €,12.35,11.72,deliverando
+Festliche Speiselokal,8010,# Negative Comments,0.0,0.0,deliverando
+Festliche Speiselokal,8010,# Positive Comments,1.0,1.0,deliverando
+Festliche Speiselokal,8010,% Kill Rate,98.0,78.0,deliverando
+Festliche Speiselokal,8010,Avg Time to Accept (s),452.0,283.0,deliverando
+Bunte Kellerstüberl,8020,# Commissionable Orders,38.0,21.0,deliverando
+Bunte Kellerstüberl,8020,Avg Basket Size €,11.98,9.59,deliverando
+Bunte Kellerstüberl,8020,# Negative Comments,1.0,0.0,deliverando
+Bunte Kellerstüberl,8020,# Positive Comments,0.0,0.0,deliverando
+Bunte Kellerstüberl,8020,% Kill Rate,48.0,52.0,deliverando
+Bunte Kellerstüberl,8020,Avg Time to Accept (s),325.0,333.0,deliverando
+Ehrwürdige Inn,8020,# Commissionable Orders,2.0,0.0,deliverando
+Ehrwürdige Inn,8020,# Negative Comments,0.0,0.0,deliverando
+Ehrwürdige Inn,8020,# Positive Comments,0.0,0.0,deliverando
+Ehrwürdige Inn,8020,% Kill Rate,115.0,0.05,deliverando
+Heimat Kneipenlokal,8020,# Commissionable Orders,210.0,343.0,deliverando
+Heimat Kneipenlokal,8020,Avg Basket Size €,21.14,21.72,deliverando
+Heimat Kneipenlokal,8020,# Negative Comments,0.0,1.0,deliverando
+Heimat Kneipenlokal,8020,# Positive Comments,1.0,1.0,deliverando
+Heimat Kneipenlokal,8020,% Kill Rate,83.0,91.0,deliverando
+Heimat Kneipenlokal,8020,Avg Time to Accept (s),13.0,11.0,deliverando
+Ländliche Krug,8020,# Commissionable Orders,85.0,76.0,deliverando
+Ländliche Krug,8020,Avg Basket Size €,14.85,14.6,deliverando
+Ländliche Krug,8020,# Negative Comments,1.0,1.0,deliverando
+Ländliche Krug,8020,# Positive Comments,1.0,1.0,deliverando
+Ländliche Krug,8020,% Kill Rate,76.0,0.1,deliverando
+Ländliche Krug,8020,Avg Time to Accept (s),27.0,29.0,deliverando
+Prachtvolle Taverne,8020,# Commissionable Orders,106.0,68.0,deliverando
+Prachtvolle Taverne,8020,Avg Basket Size €,11.75,11.79,deliverando
+Prachtvolle Taverne,8020,# Negative Comments,0.0,0.0,deliverando
+Prachtvolle Taverne,8020,# Positive Comments,1.0,1.0,deliverando
+Prachtvolle Taverne,8020,% Kill Rate,32.0,37.0,deliverando
+Prachtvolle Taverne,8020,Avg Time to Accept (s),299.0,218.0,deliverando
+Frische Weinkeller,8010,# Commissionable Orders,14.0,9.0,deliverando
+Frische Weinkeller,8010,Avg Basket Size €,20.61,25.06,deliverando
+Frische Weinkeller,8010,# Negative Comments,0.0,0.0,deliverando
+Frische Weinkeller,8010,# Positive Comments,1.0,0.0,deliverando
+Frische Weinkeller,8010,% Kill Rate,136.0,59.0,deliverando
+Frische Weinkeller,8010,Avg Time to Accept (s),491.0,425.0,deliverando
+Glanzvolle Brauhaus,8010,# Commissionable Orders,37.0,57.0,deliverando
+Glanzvolle Brauhaus,8010,Avg Basket Size €,28.08,26.5,deliverando
+Glanzvolle Brauhaus,8010,# Negative Comments,0.0,1.0,deliverando
+Glanzvolle Brauhaus,8010,# Positive Comments,0.0,0.0,deliverando
+Glanzvolle Brauhaus,8010,% Kill Rate,114.0,132.0,deliverando
+Glanzvolle Brauhaus,8010,Avg Time to Accept (s),327.0,545.0,deliverando
+Märchenhafte Küche,8010,# Commissionable Orders,194.0,122.0,deliverando
+Märchenhafte Küche,8010,Avg Basket Size €,18.29,19.9,deliverando
+Märchenhafte Küche,8010,# Negative Comments,1.0,0.0,deliverando
+Märchenhafte Küche,8010,# Positive Comments,1.0,1.0,deliverando
+Märchenhafte Küche,8010,% Kill Rate,19.0,23.0,deliverando
+Märchenhafte Küche,8010,Avg Time to Accept (s),372.0,347.0,deliverando
+Rustikale Herrenhaus,8010,# Commissionable Orders,181.0,114.0,deliverando
+Rustikale Herrenhaus,8010,Avg Basket Size €,23.99,24.77,deliverando
+Rustikale Herrenhaus,8010,# Negative Comments,4.0,1.0,deliverando
+Rustikale Herrenhaus,8010,# Positive Comments,1.0,1.0,deliverando
+Rustikale Herrenhaus,8010,% Kill Rate,59.0,59.0,deliverando
+Rustikale Herrenhaus,8010,Avg Time to Accept (s),472.0,514.0,deliverando
+Rustikale Taverna,8010,# Commissionable Orders,128.0,115.0,deliverando
+Rustikale Taverna,8010,Avg Basket Size €,18.32,17.05,deliverando
+Rustikale Taverna,8010,# Negative Comments,0.0,1.0,deliverando
+Rustikale Taverna,8010,# Positive Comments,1.0,1.0,deliverando
+Rustikale Taverna,8010,% Kill Rate,39.0,47.0,deliverando
+Rustikale Taverna,8010,Avg Time to Accept (s),375.0,514.0,deliverando
+Bergdorf Schlösschen,8010,# Commissionable Orders,10.0,83.0,deliverando
+Bergdorf Schlösschen,8010,Avg Basket Size €,22.15,20.2,deliverando
+Bergdorf Schlösschen,8010,# Negative Comments,0.0,0.0,deliverando
+Bergdorf Schlösschen,8010,# Positive Comments,1.0,1.0,deliverando
+Bergdorf Schlösschen,8010,Avg Time to Accept (s),533.0,477.0,deliverando
+Sonnige Wirtshaus,8020,# Commissionable Orders,0.0,0.0,deliverando
+Sonnige Wirtshaus,8020,# Negative Comments,0.0,0.0,deliverando
+Sonnige Wirtshaus,8020,# Positive Comments,0.0,0.0,deliverando
+Sonnige Wirtshaus,8020,% Kill Rate,94.0,74.0,deliverando
+Ruhige Soda fountain,8010,# Commissionable Orders,0.0,23.0,deliverando
+Ruhige Soda fountain,8010,# Negative Comments,0.0,0.0,deliverando
+Ruhige Soda fountain,8010,# Positive Comments,0.0,1.0,deliverando
+Gemütliche Weinstube,8010,# Commissionable Orders,0.0,0.0,deliverando
+Gemütliche Weinstube,8010,# Negative Comments,0.0,0.0,deliverando
+Gemütliche Weinstube,8010,# Positive Comments,0.0,0.0,deliverando
+Gemütliche Weinstube,8010,% Kill Rate,108.0,99.0,deliverando
+Roter Salons,8010,# Commissionable Orders,120.0,160.0,deliverando
+Roter Salons,8010,Avg Basket Size €,14.05,16.39,deliverando
+Roter Salons,8010,# Negative Comments,1.0,1.0,deliverando
+Roter Salons,8010,# Positive Comments,1.0,1.0,deliverando
+Roter Salons,8010,% Kill Rate,68.0,69.0,deliverando
+Roter Salons,8010,Avg Time to Accept (s),438.0,485.0,deliverando
+Edle Drinkery,8010,# Commissionable Orders,240.0,180.0,deliverando
+Edle Drinkery,8010,Avg Basket Size €,18.57,18.04,deliverando
+Edle Drinkery,8010,# Negative Comments,0.0,0.0,deliverando
+Edle Drinkery,8010,# Positive Comments,1.0,1.0,deliverando
+Edle Drinkery,8010,% Kill Rate,49.0,0.06,deliverando
+Edle Drinkery,8010,Avg Time to Accept (s),360.0,301.0,deliverando
+Idyllische Klause,8020,# Commissionable Orders,144.0,98.0,deliverando
+Idyllische Klause,8020,Avg Basket Size €,10.06,10.62,deliverando
+Idyllische Klause,8020,# Negative Comments,1.0,2.0,deliverando
+Idyllische Klause,8020,# Positive Comments,1.0,1.0,deliverando
+Idyllische Klause,8020,% Kill Rate,33.0,21.0,deliverando
+Idyllische Klause,8020,Avg Time to Accept (s),465.0,361.0,deliverando
+Große Schenke,8010,# Commissionable Orders,72.0,82.0,deliverando
+Große Schenke,8010,Avg Basket Size €,15.26,15.75,deliverando
+Große Schenke,8010,# Negative Comments,0.0,3.0,deliverando
+Große Schenke,8010,# Positive Comments,1.0,1.0,deliverando
+Große Schenke,8010,% Kill Rate,52.0,67.0,deliverando
+Große Schenke,8010,Avg Time to Accept (s),196.0,17.0,deliverando
+Countrified Verköstigungszimmer,8010,# Commissionable Orders,324.0,370.0,deliverando
+Countrified Verköstigungszimmer,8010,Avg Basket Size €,21.75,22.7,deliverando
+Countrified Verköstigungszimmer,8010,# Negative Comments,1.0,1.0,deliverando
+Countrified Verköstigungszimmer,8010,# Positive Comments,1.0,1.0,deliverando
+Countrified Verköstigungszimmer,8010,% Kill Rate,77.0,74.0,deliverando
+Countrified Verköstigungszimmer,8010,Avg Time to Accept (s),18.0,17.0,deliverando
+Große Schenke,8010,# Commissionable Orders,230.0,313.0,deliverando
+Große Schenke,8010,Avg Basket Size €,16.79,16.69,deliverando
+Große Schenke,8010,# Negative Comments,1.0,2.0,deliverando
+Große Schenke,8010,# Positive Comments,1.0,1.0,deliverando
+Große Schenke,8010,% Kill Rate,89.0,101.0,deliverando
+Große Schenke,8010,Avg Time to Accept (s),33.0,29.0,deliverando
+Alte Tisch,8055,# Commissionable Orders,43.0,29.0,deliverando
+Alte Tisch,8055,Avg Basket Size €,16.7,14.05,deliverando
+Alte Tisch,8055,# Negative Comments,0.0,1.0,deliverando
+Alte Tisch,8055,# Positive Comments,0.0,1.0,deliverando
+Alte Tisch,8055,% Kill Rate,48.0,74.0,deliverando
+Alte Tisch,8055,Avg Time to Accept (s),18.0,17.0,deliverando
+Heimat Weinstube,8010,# Commissionable Orders,285.0,184.0,deliverando
+Heimat Weinstube,8010,Avg Basket Size €,11.38,12.24,deliverando
+Heimat Weinstube,8010,# Negative Comments,0.0,1.0,deliverando
+Heimat Weinstube,8010,# Positive Comments,1.0,1.0,deliverando
+Heimat Weinstube,8010,% Kill Rate,51.0,48.0,deliverando
+Heimat Weinstube,8010,Avg Time to Accept (s),382.0,389.0,deliverando
+Gute Pizzeria,8020,# Commissionable Orders,82.0,66.0,deliverando
+Gute Pizzeria,8020,Avg Basket Size €,14.66,19.06,deliverando
+Gute Pizzeria,8020,# Negative Comments,0.0,1.0,deliverando
+Gute Pizzeria,8020,# Positive Comments,1.0,1.0,deliverando
+Gute Pizzeria,8020,% Kill Rate,46.0,53.0,deliverando
+Gute Pizzeria,8020,Avg Time to Accept (s),412.0,373.0,deliverando
+Exotische Weinkneipe,8010,# Commissionable Orders,28.0,18.0,deliverando
+Exotische Weinkneipe,8010,Avg Basket Size €,19.72,17.32,deliverando
+Exotische Weinkneipe,8010,# Negative Comments,2.0,0.0,deliverando
+Exotische Weinkneipe,8010,# Positive Comments,0.0,1.0,deliverando
+Exotische Weinkneipe,8010,% Kill Rate,83.0,68.0,deliverando
+Exotische Weinkneipe,8010,Avg Time to Accept (s),387.0,402.0,deliverando
+Rote Platzl,8020,# Commissionable Orders,43.0,42.0,deliverando
+Rote Platzl,8020,Avg Basket Size €,24.95,24.26,deliverando
+Rote Platzl,8020,# Negative Comments,0.0,0.0,deliverando
+Rote Platzl,8020,# Positive Comments,1.0,1.0,deliverando
+Rote Platzl,8020,% Kill Rate,118.0,135.0,deliverando
+Rote Platzl,8020,Avg Time to Accept (s),283.0,243.0,deliverando
+Alte Pinte,8041,# Commissionable Orders,104.0,171.0,deliverando
+Alte Pinte,8041,Avg Basket Size €,27.72,25.97,deliverando
+Alte Pinte,8041,# Negative Comments,0.0,1.0,deliverando
+Alte Pinte,8041,# Positive Comments,1.0,1.0,deliverando
+Alte Pinte,8041,% Kill Rate,97.0,88.0,deliverando
+Alte Pinte,8041,Avg Time to Accept (s),334.0,13.0,deliverando
+Herzog Jausenstation,8010,# Commissionable Orders,489.0,494.0,deliverando
+Herzog Jausenstation,8010,Avg Basket Size €,17.03,17.95,deliverando
+Herzog Jausenstation,8010,# Negative Comments,0.0,2.0,deliverando
+Herzog Jausenstation,8010,# Positive Comments,1.0,1.0,deliverando
+Herzog Jausenstation,8010,% Kill Rate,33.0,44.0,deliverando
+Herzog Jausenstation,8010,Avg Time to Accept (s),451.0,524.0,deliverando
+Stilvolle Taverna,8010,# Commissionable Orders,35.0,27.0,deliverando
+Stilvolle Taverna,8010,Avg Basket Size €,24.39,22.38,deliverando
+Stilvolle Taverna,8010,# Negative Comments,0.0,0.0,deliverando
+Stilvolle Taverna,8010,# Positive Comments,1.0,0.0,deliverando
+Stilvolle Taverna,8010,% Kill Rate,129.0,118.0,deliverando
+Stilvolle Taverna,8010,Avg Time to Accept (s),670.0,491.0,deliverando
+Blumen Kneipenlokal,8010,# Commissionable Orders,0.0,0.0,deliverando
+Blumen Kneipenlokal,8010,# Negative Comments,0.0,0.0,deliverando
+Blumen Kneipenlokal,8010,# Positive Comments,0.0,0.0,deliverando
+Bäuerliche Grillroom,8010,# Commissionable Orders,10.0,11.0,deliverando
+Bäuerliche Grillroom,8010,Avg Basket Size €,26.42,24.37,deliverando
+Bäuerliche Grillroom,8010,# Negative Comments,0.0,0.0,deliverando
+Bäuerliche Grillroom,8010,# Positive Comments,0.0,1.0,deliverando
+Bäuerliche Grillroom,8010,% Kill Rate,41.0,32.0,deliverando
+Bäuerliche Grillroom,8010,Avg Time to Accept (s),322.0,267.0,deliverando
+Fischer Burg,8010,# Commissionable Orders,55.0,62.0,deliverando
+Fischer Burg,8010,Avg Basket Size €,21.15,22.46,deliverando
+Fischer Burg,8010,# Negative Comments,0.0,0.0,deliverando
+Fischer Burg,8010,# Positive Comments,1.0,1.0,deliverando
+Fischer Burg,8010,% Kill Rate,135.0,105.0,deliverando
+Fischer Burg,8010,Avg Time to Accept (s),249.0,311.0,deliverando
+Holz Lokal,8010,# Commissionable Orders,12.0,7.0,deliverando
+Holz Lokal,8010,Avg Basket Size €,16.37,25.5,deliverando
+Holz Lokal,8010,# Negative Comments,0.0,0.0,deliverando
+Holz Lokal,8010,# Positive Comments,0.0,0.0,deliverando
+Holz Lokal,8010,Avg Time to Accept (s),634.0,365.0,deliverando
+Stilvolle Hofladen,8010,# Commissionable Orders,80.0,106.0,deliverando
+Stilvolle Hofladen,8010,Avg Basket Size €,17.55,16.62,deliverando
+Stilvolle Hofladen,8010,# Negative Comments,0.0,1.0,deliverando
+Stilvolle Hofladen,8010,# Positive Comments,0.0,1.0,deliverando
+Stilvolle Hofladen,8010,% Kill Rate,64.0,67.0,deliverando
+Stilvolle Hofladen,8010,Avg Time to Accept (s),365.0,389.0,deliverando
+Rasante Schlösschen,8010,# Commissionable Orders,0.0,0.0,deliverando
+Rasante Schlösschen,8010,# Negative Comments,0.0,0.0,deliverando
+Rasante Schlösschen,8010,# Positive Comments,0.0,0.0,deliverando
+Rasante Schlösschen,8010,% Kill Rate,125.0,91.0,deliverando
+Heimat Stubn,8010,# Commissionable Orders,345.0,358.0,deliverando
+Heimat Stubn,8010,Avg Basket Size €,17.68,17.24,deliverando
+Heimat Stubn,8010,# Negative Comments,0.0,0.0,deliverando
+Heimat Stubn,8010,# Positive Comments,1.0,1.0,deliverando
+Heimat Stubn,8010,% Kill Rate,49.0,55.0,deliverando
+Heimat Stubn,8010,Avg Time to Accept (s),421.0,466.0,deliverando
+Königliche Felsenkeller,8010,# Commissionable Orders,111.0,142.0,deliverando
+Königliche Felsenkeller,8010,Avg Basket Size €,23.07,22.96,deliverando
+Königliche Felsenkeller,8010,# Negative Comments,0.0,1.0,deliverando
+Königliche Felsenkeller,8010,# Positive Comments,1.0,1.0,deliverando
+Königliche Felsenkeller,8010,% Kill Rate,106.0,149.0,deliverando
+Königliche Felsenkeller,8010,Avg Time to Accept (s),464.0,538.0,deliverando
+Rustikale Verköstigungszimmer,8020,# Commissionable Orders,46.0,32.0,deliverando
+Rustikale Verköstigungszimmer,8020,Avg Basket Size €,14.9,14.76,deliverando
+Rustikale Verköstigungszimmer,8020,# Negative Comments,0.0,1.0,deliverando
+Rustikale Verköstigungszimmer,8020,# Positive Comments,1.0,1.0,deliverando
+Rustikale Verköstigungszimmer,8020,% Kill Rate,58.0,56.0,deliverando
+Rustikale Verköstigungszimmer,8020,Avg Time to Accept (s),479.0,380.0,deliverando
+Festliche Tafelspitz,8020,# Commissionable Orders,122.0,67.0,deliverando
+Festliche Tafelspitz,8020,Avg Basket Size €,23.18,22.08,deliverando
+Festliche Tafelspitz,8020,# Negative Comments,1.0,1.0,deliverando
+Festliche Tafelspitz,8020,# Positive Comments,1.0,1.0,deliverando
+Festliche Tafelspitz,8020,Avg Time to Accept (s),21.0,31.0,deliverando
+Bustling Almhütte,8020,# Commissionable Orders,39.0,0.0,deliverando
+Bustling Almhütte,8020,# Negative Comments,0.0,0.0,deliverando
+Bustling Almhütte,8020,# Positive Comments,1.0,0.0,deliverando
+Bustling Almhütte,8020,% Kill Rate,32.0,24.0,deliverando
+Rustikale Mühle,8055,# Commissionable Orders,0.0,0.0,deliverando
+Rustikale Mühle,8055,# Negative Comments,0.0,0.0,deliverando
+Rustikale Mühle,8055,# Positive Comments,0.0,0.0,deliverando
+Grüne Weinkeller,8010,# Commissionable Orders,108.0,86.0,deliverando
+Grüne Weinkeller,8010,Avg Basket Size €,17.31,17.77,deliverando
+Grüne Weinkeller,8010,# Negative Comments,1.0,1.0,deliverando
+Grüne Weinkeller,8010,# Positive Comments,1.0,1.0,deliverando
+Grüne Weinkeller,8010,% Kill Rate,23.0,32.0,deliverando
+Grüne Weinkeller,8010,Avg Time to Accept (s),470.0,467.0,deliverando
+Blaue Schankstube,8055,# Commissionable Orders,70.0,80.0,deliverando
+Blaue Schankstube,8055,Avg Basket Size €,23.59,24.52,deliverando
+Blaue Schankstube,8055,# Negative Comments,0.0,0.0,deliverando
+Blaue Schankstube,8055,# Positive Comments,1.0,1.0,deliverando
+Blaue Schankstube,8055,% Kill Rate,166.0,179.0,deliverando
+Blaue Schankstube,8055,Avg Time to Accept (s),569.0,366.0,deliverando
+Malerische Tanzlokal,8020,# Commissionable Orders,53.0,42.0,deliverando
+Malerische Tanzlokal,8020,Avg Basket Size €,18.38,19.41,deliverando
+Malerische Tanzlokal,8020,# Negative Comments,0.0,0.0,deliverando
+Malerische Tanzlokal,8020,# Positive Comments,1.0,1.0,deliverando
+Malerische Tanzlokal,8020,% Kill Rate,94.0,74.0,deliverando
+Malerische Tanzlokal,8020,Avg Time to Accept (s),16.0,12.0,deliverando
+Sonnige Gasthof,8010,# Commissionable Orders,82.0,43.0,deliverando
+Sonnige Gasthof,8010,Avg Basket Size €,18.92,19.21,deliverando
+Sonnige Gasthof,8010,# Negative Comments,1.0,1.0,deliverando
+Sonnige Gasthof,8010,# Positive Comments,1.0,1.0,deliverando
+Sonnige Gasthof,8010,% Kill Rate,113.0,91.0,deliverando
+Sonnige Gasthof,8010,Avg Time to Accept (s),505.0,463.0,deliverando
+Moderne Klause,8055,# Commissionable Orders,24.0,24.0,deliverando
+Moderne Klause,8055,Avg Basket Size €,18.91,18.52,deliverando
+Moderne Klause,8055,# Negative Comments,0.0,3.0,deliverando
+Moderne Klause,8055,# Positive Comments,0.0,1.0,deliverando
+Moderne Klause,8055,% Kill Rate,106.0,65.0,deliverando
+Moderne Klause,8055,Avg Time to Accept (s),790.0,111.0,deliverando
+Pittoreske Blick,8010,# Commissionable Orders,0.0,0.0,deliverando
+Pittoreske Blick,8010,# Negative Comments,0.0,0.0,deliverando
+Pittoreske Blick,8010,# Positive Comments,0.0,0.0,deliverando
+Gute Gourmet,8052,# Commissionable Orders,1.0,0.0,deliverando
+Gute Gourmet,8052,# Negative Comments,0.0,0.0,deliverando
+Gute Gourmet,8052,# Positive Comments,0.0,0.0,deliverando
+Gute Gourmet,8052,% Kill Rate,123.0,79.0,deliverando
+Magische Tisch,8010,# Commissionable Orders,70.0,90.0,deliverando
+Magische Tisch,8010,Avg Basket Size €,28.08,27.23,deliverando
+Magische Tisch,8010,# Negative Comments,0.0,1.0,deliverando
+Magische Tisch,8010,# Positive Comments,1.0,1.0,deliverando
+Magische Tisch,8010,% Kill Rate,0.12,0.11,deliverando
+Magische Tisch,8010,Avg Time to Accept (s),463.0,501.0,deliverando
+Ruhige Schanke,8020,# Commissionable Orders,0.0,0.0,deliverando
+Ruhige Schanke,8020,# Negative Comments,0.0,0.0,deliverando
+Ruhige Schanke,8020,# Positive Comments,0.0,0.0,deliverando
+Rustikale Felsenkeller,8010,# Commissionable Orders,2.0,0.0,deliverando
+Rustikale Felsenkeller,8010,# Negative Comments,0.0,0.0,deliverando
+Rustikale Felsenkeller,8010,# Positive Comments,1.0,0.0,deliverando
+Rustikale Felsenkeller,8010,% Kill Rate,0.0,0.0,deliverando
+Moderne Rathskeller,8010,# Commissionable Orders,80.0,79.0,deliverando
+Moderne Rathskeller,8010,Avg Basket Size €,29.17,25.34,deliverando
+Moderne Rathskeller,8010,# Negative Comments,1.0,2.0,deliverando
+Moderne Rathskeller,8010,# Positive Comments,1.0,1.0,deliverando
+Moderne Rathskeller,8010,% Kill Rate,138.0,133.0,deliverando
+Moderne Rathskeller,8010,Avg Time to Accept (s),483.0,492.0,deliverando
+Bäuerliche Kneipenlokal,8041,# Commissionable Orders,0.0,0.0,deliverando
+Bäuerliche Kneipenlokal,8041,# Negative Comments,0.0,0.0,deliverando
+Bäuerliche Kneipenlokal,8041,# Positive Comments,0.0,0.0,deliverando
+Bäuerliche Kneipenlokal,8041,% Kill Rate,91.0,116.0,deliverando
+Kleine Weinbar,8010,# Commissionable Orders,67.0,62.0,deliverando
+Kleine Weinbar,8010,Avg Basket Size €,17.21,17.12,deliverando
+Kleine Weinbar,8010,# Negative Comments,1.0,0.0,deliverando
+Kleine Weinbar,8010,# Positive Comments,1.0,1.0,deliverando
+Kleine Weinbar,8010,% Kill Rate,75.0,78.0,deliverando
+Kleine Weinbar,8010,Avg Time to Accept (s),422.0,578.0,deliverando
+Rote Brauerei,8010,# Commissionable Orders,150.0,151.0,deliverando
+Rote Brauerei,8010,Avg Basket Size €,26.84,27.51,deliverando
+Rote Brauerei,8010,# Negative Comments,1.0,0.0,deliverando
+Rote Brauerei,8010,# Positive Comments,1.0,1.0,deliverando
+Rote Brauerei,8010,% Kill Rate,111.0,93.0,deliverando
+Rote Brauerei,8010,Avg Time to Accept (s),381.0,459.0,deliverando
+Stille Wirtshaus,8051,# Commissionable Orders,328.0,405.0,deliverando
+Stille Wirtshaus,8051,Avg Basket Size €,18.84,21.29,deliverando
+Stille Wirtshaus,8051,# Negative Comments,2.0,2.0,deliverando
+Stille Wirtshaus,8051,# Positive Comments,1.0,1.0,deliverando
+Stille Wirtshaus,8051,% Kill Rate,133.0,111.0,deliverando
+Stille Wirtshaus,8051,Avg Time to Accept (s),15.0,16.0,deliverando
+Blauer Stüberl,8020,# Commissionable Orders,94.0,129.0,deliverando
+Blauer Stüberl,8020,Avg Basket Size €,28.41,29.64,deliverando
+Blauer Stüberl,8020,# Negative Comments,1.0,1.0,deliverando
+Blauer Stüberl,8020,# Positive Comments,1.0,1.0,deliverando
+Blauer Stüberl,8020,% Kill Rate,98.0,105.0,deliverando
+Blauer Stüberl,8020,Avg Time to Accept (s),399.0,475.0,deliverando
+Kleine Weinbar,8054,# Commissionable Orders,19.0,33.0,deliverando
+Kleine Weinbar,8054,Avg Basket Size €,24.22,19.37,deliverando
+Kleine Weinbar,8054,# Negative Comments,0.0,0.0,deliverando
+Kleine Weinbar,8054,# Positive Comments,1.0,1.0,deliverando
+Kleine Weinbar,8054,Avg Time to Accept (s),280.0,455.0,deliverando
+Rasante Wirt,8010,# Commissionable Orders,30.0,3.0,deliverando
+Rasante Wirt,8010,Avg Basket Size €,36.1,43.1,deliverando
+Rasante Wirt,8010,# Negative Comments,0.0,0.0,deliverando
+Rasante Wirt,8010,# Positive Comments,1.0,0.0,deliverando
+Rasante Wirt,8010,Avg Time to Accept (s),533.0,292.0,deliverando
+Bustling Zimmer,8041,# Commissionable Orders,0.0,0.0,deliverando
+Bustling Zimmer,8041,# Negative Comments,0.0,0.0,deliverando
+Bustling Zimmer,8041,# Positive Comments,0.0,0.0,deliverando
+Bustling Zimmer,8041,% Kill Rate,81.0,107.0,deliverando
+Rasante Bräustüberl,8010,# Commissionable Orders,24.0,18.0,deliverando
+Rasante Bräustüberl,8010,Avg Basket Size €,23.53,22.14,deliverando
+Rasante Bräustüberl,8010,# Negative Comments,0.0,0.0,deliverando
+Rasante Bräustüberl,8010,# Positive Comments,1.0,1.0,deliverando
+Rasante Bräustüberl,8010,% Kill Rate,93.0,83.0,deliverando
+Rasante Bräustüberl,8010,Avg Time to Accept (s),696.0,584.0,deliverando
+Wein Hideaway,8010,# Commissionable Orders,36.0,62.0,deliverando
+Wein Hideaway,8010,Avg Basket Size €,21.42,21.51,deliverando
+Wein Hideaway,8010,# Negative Comments,0.0,0.0,deliverando
+Wein Hideaway,8010,# Positive Comments,1.0,1.0,deliverando
+Wein Hideaway,8010,% Kill Rate,38.0,28.0,deliverando
+Wein Hideaway,8010,Avg Time to Accept (s),449.0,536.0,deliverando
+Neue Herrenhaus,8010,# Commissionable Orders,94.0,71.0,deliverando
+Neue Herrenhaus,8010,Avg Basket Size €,14.18,14.12,deliverando
+Neue Herrenhaus,8010,# Negative Comments,0.0,0.0,deliverando
+Neue Herrenhaus,8010,# Positive Comments,1.0,1.0,deliverando
+Neue Herrenhaus,8010,% Kill Rate,137.0,0.1,deliverando
+Neue Herrenhaus,8010,Avg Time to Accept (s),486.0,604.0,deliverando
+Hof Keller,8020,# Commissionable Orders,0.0,0.0,deliverando
+Hof Keller,8020,# Negative Comments,0.0,0.0,deliverando
+Hof Keller,8020,# Positive Comments,0.0,0.0,deliverando
+Hof Keller,8020,% Kill Rate,0.0,0.02,deliverando
+Scharfe Kaminzimmer,8020,# Commissionable Orders,18.0,9.0,deliverando
+Scharfe Kaminzimmer,8020,Avg Basket Size €,16.74,15.67,deliverando
+Scharfe Kaminzimmer,8020,# Negative Comments,0.0,0.0,deliverando
+Scharfe Kaminzimmer,8020,# Positive Comments,0.0,1.0,deliverando
+Scharfe Kaminzimmer,8020,% Kill Rate,145.0,133.0,deliverando
+Scharfe Kaminzimmer,8020,Avg Time to Accept (s),477.0,559.0,deliverando
+Quaint Rathskeller,8020,# Commissionable Orders,43.0,36.0,deliverando
+Quaint Rathskeller,8020,Avg Basket Size €,10.36,9.28,deliverando
+Quaint Rathskeller,8020,# Negative Comments,1.0,0.0,deliverando
+Quaint Rathskeller,8020,# Positive Comments,1.0,1.0,deliverando
+Quaint Rathskeller,8020,% Kill Rate,113.0,94.0,deliverando
+Quaint Rathskeller,8020,Avg Time to Accept (s),449.0,542.0,deliverando
+Moderne Ratsstube,8041,# Commissionable Orders,8.0,11.0,deliverando
+Moderne Ratsstube,8041,Avg Basket Size €,20.25,19.12,deliverando
+Moderne Ratsstube,8041,# Negative Comments,0.0,2.0,deliverando
+Moderne Ratsstube,8041,# Positive Comments,0.0,1.0,deliverando
+Moderne Ratsstube,8041,% Kill Rate,132.0,99.0,deliverando
+Moderne Ratsstube,8041,Avg Time to Accept (s),457.0,730.0,deliverando
+Stilvolle Platz,8055,# Commissionable Orders,69.0,67.0,deliverando
+Stilvolle Platz,8055,Avg Basket Size €,18.18,20.04,deliverando
+Stilvolle Platz,8055,# Negative Comments,0.0,0.0,deliverando
+Stilvolle Platz,8055,# Positive Comments,1.0,1.0,deliverando
+Stilvolle Platz,8055,% Kill Rate,118.0,108.0,deliverando
+Stilvolle Platz,8055,Avg Time to Accept (s),12.0,13.0,deliverando
+Herbstliche Rittersaal,8054,# Commissionable Orders,41.0,85.0,deliverando
+Herbstliche Rittersaal,8054,Avg Basket Size €,18.73,20.6,deliverando
+Herbstliche Rittersaal,8054,# Negative Comments,0.0,0.0,deliverando
+Herbstliche Rittersaal,8054,# Positive Comments,1.0,1.0,deliverando
+Herbstliche Rittersaal,8054,% Kill Rate,132.0,131.0,deliverando
+Herbstliche Rittersaal,8054,Avg Time to Accept (s),23.0,21.0,deliverando
+Fröhliche Schankstube,8055,# Commissionable Orders,17.0,4.0,deliverando
+Fröhliche Schankstube,8055,Avg Basket Size €,32.03,38.48,deliverando
+Fröhliche Schankstube,8055,# Negative Comments,0.0,0.0,deliverando
+Fröhliche Schankstube,8055,# Positive Comments,1.0,1.0,deliverando
+Fröhliche Schankstube,8055,% Kill Rate,105.0,103.0,deliverando
+Fröhliche Schankstube,8055,Avg Time to Accept (s),832.0,281.0,deliverando
+Schöne Tanzschuppen,8010,# Commissionable Orders,80.0,88.0,deliverando
+Schöne Tanzschuppen,8010,Avg Basket Size €,27.36,29.0,deliverando
+Schöne Tanzschuppen,8010,# Negative Comments,0.0,0.0,deliverando
+Schöne Tanzschuppen,8010,# Positive Comments,1.0,1.0,deliverando
+Schöne Tanzschuppen,8010,% Kill Rate,161.0,149.0,deliverando
+Schöne Tanzschuppen,8010,Avg Time to Accept (s),564.0,495.0,deliverando
+Kaiser Club,8010,# Commissionable Orders,4.0,3.0,deliverando
+Kaiser Club,8010,Avg Basket Size €,27.28,19.9,deliverando
+Kaiser Club,8010,# Negative Comments,0.0,0.0,deliverando
+Kaiser Club,8010,# Positive Comments,1.0,0.0,deliverando
+Kaiser Club,8010,Avg Time to Accept (s),232.0,322.0,deliverando
+Hof Tisch,8045,# Commissionable Orders,3.0,2.0,deliverando
+Hof Tisch,8045,# Negative Comments,0.0,0.0,deliverando
+Hof Tisch,8045,# Positive Comments,0.0,0.0,deliverando
+Malerische Lokal,8055,# Commissionable Orders,82.0,74.0,deliverando
+Malerische Lokal,8055,Avg Basket Size €,22.39,24.34,deliverando
+Malerische Lokal,8055,# Negative Comments,0.0,1.0,deliverando
+Malerische Lokal,8055,# Positive Comments,1.0,1.0,deliverando
+Malerische Lokal,8055,Avg Time to Accept (s),334.0,390.0,deliverando
+Frische Drinkery,8020,# Commissionable Orders,97.0,26.0,deliverando
+Frische Drinkery,8020,Avg Basket Size €,17.87,20.73,deliverando
+Frische Drinkery,8020,# Negative Comments,3.0,1.0,deliverando
+Frische Drinkery,8020,# Positive Comments,1.0,1.0,deliverando
+Frische Drinkery,8020,Avg Time to Accept (s),320.0,296.0,deliverando
+Ländliche Felsenkeller,8020,# Commissionable Orders,33.0,156.0,deliverando
+Ländliche Felsenkeller,8020,Avg Basket Size €,12.69,14.36,deliverando
+Ländliche Felsenkeller,8020,# Negative Comments,0.0,3.0,deliverando
+Ländliche Felsenkeller,8020,# Positive Comments,1.0,1.0,deliverando
+Ländliche Felsenkeller,8020,Avg Time to Accept (s),500.0,473.0,deliverando
+Sanfte Gesellschaftsraum,8055,# Commissionable Orders,0.0,0.0,deliverando
+Sanfte Gesellschaftsraum,8055,# Negative Comments,0.0,0.0,deliverando
+Sanfte Gesellschaftsraum,8055,# Positive Comments,0.0,0.0,deliverando
+Frische Hofladen,8054,# Commissionable Orders,3.0,0.0,deliverando
+Frische Hofladen,8054,# Negative Comments,0.0,0.0,deliverando
+Frische Hofladen,8054,# Positive Comments,0.0,0.0,deliverando
+Ehrwürdige Hof,8010,# Commissionable Orders,39.0,0.0,deliverando
+Ehrwürdige Hof,8010,# Negative Comments,0.0,0.0,deliverando
+Ehrwürdige Hof,8010,# Positive Comments,1.0,0.0,deliverando
+Große Küche,8055,# Commissionable Orders,111.0,40.0,deliverando
+Große Küche,8055,Avg Basket Size €,26.59,27.13,deliverando
+Große Küche,8055,# Negative Comments,2.0,0.0,deliverando
+Große Küche,8055,# Positive Comments,1.0,1.0,deliverando
+Große Küche,8055,Avg Time to Accept (s),577.0,445.0,deliverando
+Nostalgische Hofbräu,8020,# Commissionable Orders,25.0,1.0,deliverando
+Nostalgische Hofbräu,8020,Avg Basket Size €,15.49,14.4,deliverando
+Nostalgische Hofbräu,8020,# Negative Comments,1.0,0.0,deliverando
+Nostalgische Hofbräu,8020,# Positive Comments,1.0,0.0,deliverando
+Nostalgische Hofbräu,8020,Avg Time to Accept (s),305.0,155.0,deliverando
+Fischer Tafelspitz,8020,# Commissionable Orders,54.0,29.0,deliverando
+Fischer Tafelspitz,8020,Avg Basket Size €,11.58,13.54,deliverando
+Fischer Tafelspitz,8020,# Negative Comments,0.0,0.0,deliverando
+Fischer Tafelspitz,8020,# Positive Comments,1.0,0.0,deliverando
+Fischer Tafelspitz,8020,Avg Time to Accept (s),472.0,536.0,deliverando
+Hohe Brauerei,8020,# Commissionable Orders,17.0,13.0,deliverando
+Hohe Brauerei,8020,Avg Basket Size €,17.14,22.65,deliverando
+Hohe Brauerei,8020,# Negative Comments,0.0,0.0,deliverando
+Hohe Brauerei,8020,# Positive Comments,1.0,1.0,deliverando
+Hohe Brauerei,8020,Avg Time to Accept (s),482.0,284.0,deliverando
+Romantische Garten,8010,# Commissionable Orders,86.0,175.0,deliverando
+Romantische Garten,8010,Avg Basket Size €,21.34,22.78,deliverando
+Romantische Garten,8010,# Negative Comments,0.0,1.0,deliverando
+Romantische Garten,8010,# Positive Comments,1.0,1.0,deliverando
+Romantische Garten,8010,Avg Time to Accept (s),485.0,626.0,deliverando
+Herzliche Eatery,8010,# Commissionable Orders,0.0,110.0,deliverando
+Herzliche Eatery,8010,# Negative Comments,0.0,1.0,deliverando
+Herzliche Eatery,8010,# Positive Comments,0.0,1.0,deliverando
+Adventurous Brauerei,8020,# Commissionable Orders,0.0,15.0,deliverando
+Adventurous Brauerei,8020,# Negative Comments,0.0,0.0,deliverando
+Adventurous Brauerei,8020,# Positive Comments,0.0,0.0,deliverando
+Fischer Blick,8042,# Commissionable Orders,157.0,481.0,deliverando
+Fischer Blick,8042,Avg Basket Size €,22.13,23.17,deliverando
+Fischer Blick,8042,# Negative Comments,2.0,2.0,deliverando
+Fischer Blick,8042,# Positive Comments,1.0,1.0,deliverando
+Fischer Blick,8042,Avg Time to Accept (s),25.0,19.0,deliverando
+Blumen Kaminzimmer,8010,# Commissionable Orders,2.0,17.0,deliverando
+Blumen Kaminzimmer,8010,Avg Basket Size €,17.2,26.24,deliverando
+Blumen Kaminzimmer,8010,# Negative Comments,0.0,0.0,deliverando
+Blumen Kaminzimmer,8010,# Positive Comments,0.0,1.0,deliverando
+Blumen Kaminzimmer,8010,Avg Time to Accept (s),33.0,514.0,deliverando
+Bäuerliche Pizzeria,8020,# Commissionable Orders,0.0,454.0,deliverando
+Bäuerliche Pizzeria,8020,# Negative Comments,0.0,11.0,deliverando
+Bäuerliche Pizzeria,8020,# Positive Comments,0.0,1.0,deliverando
+Edle Zirbelstube,8010,# Commissionable Orders,0.0,175.0,deliverando
+Edle Zirbelstube,8010,# Negative Comments,0.0,0.0,deliverando
+Edle Zirbelstube,8010,# Positive Comments,0.0,1.0,deliverando
+Geheimnisvolle Weinbar,8052,# Commissionable Orders,7.0,76.0,deliverando
+Geheimnisvolle Weinbar,8052,Avg Basket Size €,16.54,19.79,deliverando
+Geheimnisvolle Weinbar,8052,# Negative Comments,0.0,0.0,deliverando
+Geheimnisvolle Weinbar,8052,# Positive Comments,1.0,1.0,deliverando
+Geheimnisvolle Weinbar,8052,Avg Time to Accept (s),20.0,20.0,deliverando
+Bauer Kaminzimmer,8010,# Commissionable Orders,0.0,3.0,deliverando
+Bauer Kaminzimmer,8010,# Negative Comments,0.0,0.0,deliverando
+Bauer Kaminzimmer,8010,# Positive Comments,0.0,0.0,deliverando
+Bustling Küche,8054,# Commissionable Orders,0.0,39.0,deliverando
+Bustling Küche,8054,# Negative Comments,0.0,0.0,deliverando
+Bustling Küche,8054,# Positive Comments,0.0,1.0,deliverando
+Adventurous Brauhaus,8010,# Commissionable Orders,0.0,102.0,deliverando
+Adventurous Brauhaus,8010,# Negative Comments,0.0,0.0,deliverando
+Adventurous Brauhaus,8010,# Positive Comments,0.0,1.0,deliverando
+Kleine Stubn,8010,# Commissionable Orders,0.0,4.0,deliverando
+Kleine Stubn,8010,# Negative Comments,0.0,0.0,deliverando
+Kleine Stubn,8010,# Positive Comments,0.0,0.0,deliverando
+Stille Juke joint,8020,# Commissionable Orders,0.0,80.0,deliverando
+Stille Juke joint,8020,# Negative Comments,0.0,3.0,deliverando
+Stille Juke joint,8020,# Positive Comments,0.0,1.0,deliverando
+Blaue Biergarten,8010,# Commissionable Orders,0.0,6.0,deliverando
+Blaue Biergarten,8010,# Negative Comments,0.0,0.0,deliverando
+Blaue Biergarten,8010,# Positive Comments,0.0,0.0,deliverando
+Blumen Speisesaal,8020,# Commissionable Orders,0.0,21.0,deliverando
+Blumen Speisesaal,8020,# Negative Comments,0.0,0.0,deliverando
+Blumen Speisesaal,8020,# Positive Comments,0.0,1.0,deliverando
+Märchenhafte Tanzschuppen,8055,# Commissionable Orders,0.0,7.0,deliverando
+Märchenhafte Tanzschuppen,8055,# Negative Comments,0.0,0.0,deliverando
+Märchenhafte Tanzschuppen,8055,# Positive Comments,0.0,0.0,deliverando
+Prachtvolle Platz,8010,# Commissionable Orders,0.0,21.0,deliverando
+Prachtvolle Platz,8010,# Negative Comments,0.0,0.0,deliverando
+Prachtvolle Platz,8010,# Positive Comments,0.0,0.0,deliverando
+Fischer Schenke,8010,# Commissionable Orders,0.0,0.0,deliverando
+Fischer Schenke,8010,# Negative Comments,0.0,0.0,deliverando
+Fischer Schenke,8010,# Positive Comments,0.0,0.0,deliverando
+Königliche Hofbräu,8055,# Commissionable Orders,0.0,0.0,deliverando
+Königliche Hofbräu,8055,# Negative Comments,0.0,0.0,deliverando
+Königliche Hofbräu,8055,# Positive Comments,0.0,0.0,deliverando
+Verträumte Weinlokal,8010,# Commissionable Orders,0.0,0.0,deliverando
+Verträumte Weinlokal,8010,# Negative Comments,0.0,0.0,deliverando
+Verträumte Weinlokal,8010,# Positive Comments,0.0,0.0,deliverando
+Maritime Schänke,8020,# Commissionable Orders,0.0,0.0,deliverando
+Maritime Schänke,8020,# Negative Comments,0.0,0.0,deliverando
+Maritime Schänke,8020,# Positive Comments,0.0,0.0,deliverando
+Bunte Südseeparadies,8010,# Commissionable Orders,0.0,0.0,deliverando
+Bunte Südseeparadies,8010,# Negative Comments,0.0,0.0,deliverando
+Bunte Südseeparadies,8010,# Positive Comments,0.0,0.0,deliverando
+Sanfte Gaststube,8051,# Commissionable Orders,0.0,0.0,deliverando
+Sanfte Gaststube,8051,# Negative Comments,0.0,0.0,deliverando
+Sanfte Gaststube,8051,# Positive Comments,0.0,0.0,deliverando
+Romantische Keller,8045,# Commissionable Orders,0.0,0.0,deliverando
+Romantische Keller,8045,# Negative Comments,0.0,0.0,deliverando
+Romantische Keller,8045,# Positive Comments,0.0,0.0,deliverando
+Edle Gastgewölbe,8010,# Commissionable Orders,0.0,0.0,deliverando
+Edle Gastgewölbe,8010,# Negative Comments,0.0,0.0,deliverando
+Edle Gastgewölbe,8010,# Positive Comments,0.0,0.0,deliverando
+Ehrwürdige Schmiede,8053,# Commissionable Orders,0.0,0.0,deliverando
+Ehrwürdige Schmiede,8053,# Negative Comments,0.0,0.0,deliverando
+Ehrwürdige Schmiede,8053,# Positive Comments,0.0,0.0,deliverando
+Rauchige Winery,8010,# Commissionable Orders,0.0,0.0,deliverando
+Rauchige Winery,8010,# Negative Comments,0.0,0.0,deliverando
+Rauchige Winery,8010,# Positive Comments,0.0,0.0,deliverando
+Adventurous Rathskeller,8010,# Commissionable Orders,0.0,0.0,deliverando
+Adventurous Rathskeller,8010,# Negative Comments,0.0,0.0,deliverando
+Adventurous Rathskeller,8010,# Positive Comments,0.0,0.0,deliverando
+Königliche Dorfschenke,8010,# Commissionable Orders,0.0,0.0,deliverando
+Königliche Dorfschenke,8010,# Negative Comments,0.0,0.0,deliverando
+Königliche Dorfschenke,8010,# Positive Comments,0.0,0.0,deliverando
+Fröhliche Scheune,8010,# Commissionable Orders,0.0,0.0,deliverando
+Fröhliche Scheune,8010,# Negative Comments,0.0,0.0,deliverando
+Fröhliche Scheune,8010,# Positive Comments,0.0,0.0,deliverando
+Fröhliche Scheune,8055,# Commissionable Orders,0.0,0.0,deliverando
+Fröhliche Scheune,8055,# Negative Comments,0.0,0.0,deliverando
+Fröhliche Scheune,8055,# Positive Comments,0.0,0.0,deliverando
+Verträumte Gesellschaftsraum,8020,# Commissionable Orders,0.0,0.0,deliverando
+Verträumte Gesellschaftsraum,8020,# Negative Comments,0.0,0.0,deliverando
+Verträumte Gesellschaftsraum,8020,# Positive Comments,0.0,0.0,deliverando
+Goldene Mühle,8045,# Commissionable Orders,0.0,0.0,deliverando
+Goldene Mühle,8045,# Negative Comments,0.0,0.0,deliverando
+Goldene Mühle,8045,# Positive Comments,0.0,0.0,deliverando
+Roter Gastgewölbe,8020,# Commissionable Orders,0.0,0.0,deliverando
+Roter Gastgewölbe,8020,# Negative Comments,0.0,0.0,deliverando
+Roter Gastgewölbe,8020,# Positive Comments,0.0,0.0,deliverando
+Kultivierte Bräustüberl,8020,# Commissionable Orders,0.0,0.0,deliverando
+Kultivierte Bräustüberl,8020,# Negative Comments,0.0,0.0,deliverando
+Kultivierte Bräustüberl,8020,# Positive Comments,0.0,0.0,deliverando
+Fischer Braustube,8045,# Commissionable Orders,0.0,0.0,deliverando
+Fischer Braustube,8045,# Negative Comments,0.0,0.0,deliverando
+Fischer Braustube,8045,# Positive Comments,0.0,0.0,deliverando
+Scharfe Speakeasy,8010,# Commissionable Orders,0.0,0.0,deliverando
+Scharfe Speakeasy,8010,# Negative Comments,0.0,0.0,deliverando
+Scharfe Speakeasy,8010,# Positive Comments,0.0,0.0,deliverando
+Kleine Schankstube,8010,# Commissionable Orders,0.0,0.0,deliverando
+Kleine Schankstube,8010,# Negative Comments,0.0,0.0,deliverando
+Kleine Schankstube,8010,# Positive Comments,0.0,0.0,deliverando
+Erfahrene Tafelspitz,8041,# Commissionable Orders,0.0,0.0,deliverando
+Erfahrene Tafelspitz,8041,# Negative Comments,0.0,0.0,deliverando
+Erfahrene Tafelspitz,8041,# Positive Comments,0.0,0.0,deliverando
+Gebackene Herberge,8010,# Commissionable Orders,0.0,0.0,deliverando
+Gebackene Herberge,8010,# Negative Comments,0.0,0.0,deliverando
+Gebackene Herberge,8010,# Positive Comments,0.0,0.0,deliverando
+Bauer Palast,8020,# Commissionable Orders,0.0,0.0,deliverando
+Bauer Palast,8020,# Negative Comments,0.0,0.0,deliverando
+Bauer Palast,8020,# Positive Comments,0.0,0.0,deliverando
+Königliche Club,8041,# Commissionable Orders,0.0,0.0,deliverando
+Königliche Club,8041,# Negative Comments,0.0,0.0,deliverando
+Königliche Club,8041,# Positive Comments,0.0,0.0,deliverando
+Sanfte Weinlokal,8010,# Commissionable Orders,0.0,0.0,deliverando
+Sanfte Weinlokal,8010,# Negative Comments,0.0,0.0,deliverando
+Sanfte Weinlokal,8010,# Positive Comments,0.0,0.0,deliverando
+Scharfe Schänke,8010,# Commissionable Orders,0.0,0.0,deliverando
+Scharfe Schänke,8010,# Negative Comments,0.0,0.0,deliverando
+Scharfe Schänke,8010,# Positive Comments,0.0,0.0,deliverando
+Wolkenkratzer Gasthof,8054,# Commissionable Orders,0.0,0.0,deliverando
+Wolkenkratzer Gasthof,8054,# Negative Comments,0.0,0.0,deliverando
+Wolkenkratzer Gasthof,8054,# Positive Comments,0.0,0.0,deliverando
+Grüne Platzl,8010,# Commissionable Orders,0.0,0.0,deliverando
+Grüne Platzl,8010,# Negative Comments,0.0,0.0,deliverando
+Grüne Platzl,8010,# Positive Comments,0.0,0.0,deliverando
+Große Kellerstüberl,8020,# Commissionable Orders,0.0,0.0,deliverando
+Große Kellerstüberl,8020,# Negative Comments,0.0,0.0,deliverando
+Große Kellerstüberl,8020,# Positive Comments,0.0,0.0,deliverando
+Fischer Blick,8020,# Commissionable Orders,0.0,0.0,deliverando
+Fischer Blick,8020,# Negative Comments,0.0,0.0,deliverando
+Fischer Blick,8020,# Positive Comments,0.0,0.0,deliverando
+Romantische Esszimmer,8010,# Commissionable Orders,0.0,0.0,deliverando
+Romantische Esszimmer,8010,# Negative Comments,0.0,0.0,deliverando
+Romantische Esszimmer,8010,# Positive Comments,0.0,0.0,deliverando
+Himmel Almhütte,8054,# Commissionable Orders,0.0,0.0,deliverando
+Himmel Almhütte,8054,# Negative Comments,0.0,0.0,deliverando
+Himmel Almhütte,8054,# Positive Comments,0.0,0.0,deliverando
+Romantische Garten,8055,# Commissionable Orders,0.0,0.0,deliverando
+Romantische Garten,8055,# Negative Comments,0.0,0.0,deliverando
+Romantische Garten,8055,# Positive Comments,0.0,0.0,deliverando
+Edle Hofladen,8020,# Commissionable Orders,0.0,0.0,deliverando
+Edle Hofladen,8020,# Negative Comments,0.0,0.0,deliverando
+Edle Hofladen,8020,# Positive Comments,0.0,0.0,deliverando
+Festliche Schänke,8010,# Commissionable Orders,0.0,0.0,deliverando
+Festliche Schänke,8010,# Negative Comments,0.0,0.0,deliverando
+Festliche Schänke,8010,# Positive Comments,0.0,0.0,deliverando
+Grüne Lokal,8020,# Commissionable Orders,0.0,0.0,deliverando
+Grüne Lokal,8020,# Negative Comments,0.0,0.0,deliverando
+Grüne Lokal,8020,# Positive Comments,0.0,0.0,deliverando
+Stern Brauhaus,8010,# Commissionable Orders,0.0,0.0,deliverando
+Stern Brauhaus,8010,# Negative Comments,0.0,0.0,deliverando
+Stern Brauhaus,8010,# Positive Comments,0.0,0.0,deliverando
+Königliche Tisch,8020,# Commissionable Orders,0.0,0.0,deliverando
+Königliche Tisch,8020,# Negative Comments,0.0,0.0,deliverando
+Königliche Tisch,8020,# Positive Comments,0.0,0.0,deliverando
+Kleine Dorf,8010,# Commissionable Orders,0.0,0.0,deliverando
+Kleine Dorf,8010,# Negative Comments,0.0,0.0,deliverando
+Kleine Dorf,8010,# Positive Comments,0.0,0.0,deliverando
+Herzog Almhütte,8055,# Commissionable Orders,0.0,0.0,deliverando
+Herzog Almhütte,8055,# Negative Comments,0.0,0.0,deliverando
+Herzog Almhütte,8055,# Positive Comments,0.0,0.0,deliverando
+Kultivierte Esszimmer,8051,# Commissionable Orders,0.0,0.0,deliverando
+Kultivierte Esszimmer,8051,# Negative Comments,0.0,0.0,deliverando
+Kultivierte Esszimmer,8051,# Positive Comments,0.0,0.0,deliverando
+Wirtshaus Feuerstelle,8010,# Commissionable Orders,0.0,0.0,deliverando
+Wirtshaus Feuerstelle,8010,# Negative Comments,0.0,0.0,deliverando
+Wirtshaus Feuerstelle,8010,# Positive Comments,0.0,0.0,deliverando
+Wirtshaus Küche,8010,# Commissionable Orders,0.0,0.0,deliverando
+Wirtshaus Küche,8010,# Negative Comments,0.0,0.0,deliverando
+Wirtshaus Küche,8010,# Positive Comments,0.0,0.0,deliverando
+Ruhige Inn,8041,# Commissionable Orders,0.0,0.0,deliverando
+Ruhige Inn,8041,# Negative Comments,0.0,0.0,deliverando
+Ruhige Inn,8041,# Positive Comments,0.0,0.0,deliverando
+Quaint Jausenstation,8010,# Commissionable Orders,0.0,0.0,deliverando
+Quaint Jausenstation,8010,# Negative Comments,0.0,0.0,deliverando
+Quaint Jausenstation,8010,# Positive Comments,0.0,0.0,deliverando
+Erfahrene Rathskeller,8055,# Commissionable Orders,0.0,0.0,deliverando
+Erfahrene Rathskeller,8055,# Negative Comments,0.0,0.0,deliverando
+Erfahrene Rathskeller,8055,# Positive Comments,0.0,0.0,deliverando
+Verträumte Schenke,8042,# Commissionable Orders,0.0,0.0,deliverando
+Verträumte Schenke,8042,# Negative Comments,0.0,0.0,deliverando
+Verträumte Schenke,8042,# Positive Comments,0.0,0.0,deliverando
+Mozart See,8041,# Commissionable Orders,0.0,0.0,deliverando
+Mozart See,8041,# Negative Comments,0.0,0.0,deliverando
+Mozart See,8041,# Positive Comments,0.0,0.0,deliverando
+Schöne Wanderhütte,8020,# Commissionable Orders,0.0,0.0,deliverando
+Schöne Wanderhütte,8020,# Negative Comments,0.0,0.0,deliverando
+Schöne Wanderhütte,8020,# Positive Comments,0.0,0.0,deliverando
+Alpine Weinbistro,8010,# Commissionable Orders,0.0,0.0,deliverando
+Alpine Weinbistro,8010,# Negative Comments,0.0,0.0,deliverando
+Alpine Weinbistro,8010,# Positive Comments,0.0,0.0,deliverando
+Rauchige Hideaway,8020,# Commissionable Orders,0.0,0.0,deliverando
+Rauchige Hideaway,8020,# Negative Comments,0.0,0.0,deliverando
+Rauchige Hideaway,8020,# Positive Comments,0.0,0.0,deliverando
+Moderne Grillplatz,8010,# Commissionable Orders,0.0,0.0,deliverando
+Moderne Grillplatz,8010,# Negative Comments,0.0,0.0,deliverando
+Moderne Grillplatz,8010,# Positive Comments,0.0,0.0,deliverando
+Mozart Feuerstelle,8020,# Commissionable Orders,0.0,0.0,deliverando
+Mozart Feuerstelle,8020,# Negative Comments,0.0,0.0,deliverando
+Mozart Feuerstelle,8020,# Positive Comments,0.0,0.0,deliverando
