@@ -76,10 +76,12 @@ df_time = df_deliverando_wide[['franchise_name', 'month', 'orders', 'avg_acc_tim
 
 df_time['product'] = df_time['orders']*df_time['avg_acc_time']
 
-acc_time_avg_m1 = df_time[df_time['month']=='month_1']['product'].sum()/df_time[df_time['month']=='month_1']['orders'].sum()
+acc_time_avg_m1 = df_time[df_time['month']=='month_1']['product'].sum()/\
+df_time[df_time['month']=='month_1']['orders'].sum()
     # weighted average for June
 
-acc_time_avg_m2 = df_time[df_time['month']=='month_2']['product'].sum()/df_time[df_time['month']=='month_2']['orders'].sum()
+acc_time_avg_m2 = df_time[df_time['month']=='month_2']['product'].sum()/\
+df_time[df_time['month']=='month_2']['orders'].sum()
     # weighted average for July
 
 acc_time_avg_ratio = (acc_time_avg_m2/acc_time_avg_m1-1)*100
