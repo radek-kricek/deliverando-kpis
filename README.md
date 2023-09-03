@@ -37,7 +37,7 @@ def anonymize_rows(rows, name_mappings):
         original_name = row['name']   # original name of the restaurant in the 'name' column
         anonymized_name = name_mappings.get(original_name, original_name)   # check if it is present in mapping
         row['name'] = anonymized_name   # replace the name field with the generated or mapped restaurant name
-        yield row   # memore efficient, returns row one by one during an iteration in a loop
+        yield row   # more efficient, returns row one by one during an iteration in a loop
 ```
 
 I followed the approach by [District Data Labs here](https://medium.com/district-data-labs/a-practical-guide-to-anonymizing-datasets-with-python-faker-ecf15114c9be) and used the help of ChatGPT in this notebook to customize the code to my needs and to generate lists of Austrian words.
