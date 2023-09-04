@@ -108,5 +108,3 @@ only_comp_str = ', '.join(only_competition) # makes a string out of list items
 print(f'There are {len(only_competition)} restaurants solely on competing platforms.\n\
 These are:', only_comp_str + '.')
 ```
-
-Check the notebook for complete code.
