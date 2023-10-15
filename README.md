@@ -69,7 +69,7 @@ This time, I found it useful to analyze the numerous questions and visualize at 
 
 I went through different KPIs for Deliverando, checking the change between two months, and answered some questions comparing Deliverando and the competition. I created simple easy-to-understand plots for a presentation in front of stakeholders.
 
-An example is the average time to accept an order. First, I created a new data frame with only relevant values and then calculated a product ofo two columns to be used subsequantly to obtain weighted averages. The result of the code is prented average time to accept over all restaurants for first and second month and the change as percentage:
+An example is the average time to accept an order. First, I created a new data frame with only relevant values and then calculated a product of two columns to be used subsequantly to obtain weighted averages. The result of the code is the average time to accept over all restaurants for first and second month and the change as percentage:
 
 ```
 df_time = df_deliverando_wide[['franchise_name', 'month', 'orders', 'avg_acc_time']]
